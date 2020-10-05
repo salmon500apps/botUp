@@ -1,0 +1,46 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1582304632155,4270,UPC_Login,200,OK,Thread Group 1-1,text,true,,3908,2458,5,5,https://stagingupc.hostedinsurance.com/AgentPortal/login;jsessionid=k4nURfsZdbFsMfMSvx9kul92.undefined?login_error=1,2368,0,1826
+1582304632155,2372,UPC_Login-0,302,Moved Temporarily,Thread Group 1-1,,true,,566,766,5,5,https://stagingupc.hostedinsurance.com/AgentPortal/loginProcess,2368,0,1826
+1582304634535,774,UPC_Login-1,301,Moved Permanently,Thread Group 1-1,text,true,,476,846,5,5,http://stagingupc.hostedinsurance.com/AgentPortal/login;jsessionid=k4nURfsZdbFsMfMSvx9kul92.undefined?login_error=1,774,0,7
+1582304635310,1115,UPC_Login-2,200,OK,Thread Group 1-1,text,true,,2866,846,5,5,https://stagingupc.hostedinsurance.com/AgentPortal/login;jsessionid=k4nURfsZdbFsMfMSvx9kul92.undefined?login_error=1,1113,0,826
+1582304635112,1967,UPC_Login,200,OK,Thread Group 1-2,text,true,,3915,2458,5,5,https://stagingupc.hostedinsurance.com/AgentPortal/login;jsessionid=gjgOlRLDz1QWSNToYtNybBZO.undefined?login_error=1,1140,0,821
+1582304635112,1140,UPC_Login-0,302,Moved Temporarily,Thread Group 1-2,,true,,566,766,5,5,https://stagingupc.hostedinsurance.com/AgentPortal/loginProcess,1140,0,821
+1582304636253,549,UPC_Login-1,301,Moved Permanently,Thread Group 1-2,text,true,,476,846,5,5,http://stagingupc.hostedinsurance.com/AgentPortal/login;jsessionid=gjgOlRLDz1QWSNToYtNybBZO.undefined?login_error=1,549,0,4
+1582304636803,276,UPC_Login-2,200,OK,Thread Group 1-2,text,true,,2873,846,5,5,https://stagingupc.hostedinsurance.com/AgentPortal/login;jsessionid=gjgOlRLDz1QWSNToYtNybBZO.undefined?login_error=1,275,0,0
+1582304635529,2003,UPC_Login,200,OK,Thread Group 1-4,text,true,,3915,2458,5,5,https://stagingupc.hostedinsurance.com/AgentPortal/login;jsessionid=CZI2h32HFnuLHsEsR-6SE0dj.undefined?login_error=1,1151,0,825
+1582304635529,1151,UPC_Login-0,302,Moved Temporarily,Thread Group 1-4,,true,,566,766,5,5,https://stagingupc.hostedinsurance.com/AgentPortal/loginProcess,1151,0,825
+1582304636681,567,UPC_Login-1,301,Moved Permanently,Thread Group 1-4,text,true,,476,846,5,5,http://stagingupc.hostedinsurance.com/AgentPortal/login;jsessionid=CZI2h32HFnuLHsEsR-6SE0dj.undefined?login_error=1,567,0,4
+1582304637248,283,UPC_Login-2,200,OK,Thread Group 1-4,text,true,,2873,846,5,5,https://stagingupc.hostedinsurance.com/AgentPortal/login;jsessionid=CZI2h32HFnuLHsEsR-6SE0dj.undefined?login_error=1,282,0,0
+1582304636731,2245,UPC_HomePage,200,OK,Thread Group 1-1,text,true,,3994,2674,5,5,https://stagingupc.hostedinsurance.com/AgentPortal/login,572,0,3
+1582304636731,572,UPC_HomePage-0,301,Moved Permanently,Thread Group 1-1,text,true,,517,719,5,5,http://stagingupc.hostedinsurance.com/AgentPortal/Client-flow?vn=HomePageView&wm=pnc-policy-userworkbench-ui&wn=UserWorkBench&vm=pnc-policy-userworkbench-ui,572,0,3
+1582304637302,283,UPC_HomePage-1,302,Moved Temporarily,Thread Group 1-1,,true,,355,719,5,5,https://stagingupc.hostedinsurance.com/AgentPortal/Client-flow?vn=HomePageView&wm=pnc-policy-userworkbench-ui&wn=UserWorkBench&vm=pnc-policy-userworkbench-ui,283,0,0
+1582304637585,294,UPC_HomePage-2,301,Moved Permanently,Thread Group 1-1,text,true,,416,618,5,5,http://stagingupc.hostedinsurance.com/AgentPortal/login,294,0,0
+1582304637879,1097,UPC_HomePage-3,200,OK,Thread Group 1-1,text,true,,2706,618,5,5,https://stagingupc.hostedinsurance.com/AgentPortal/login,1097,0,817
+1582304637439,2234,UPC_HomePage,200,OK,Thread Group 1-2,text,true,,4001,2674,4,4,https://stagingupc.hostedinsurance.com/AgentPortal/login,277,0,0
+1582304637439,277,UPC_HomePage-0,301,Moved Permanently,Thread Group 1-2,text,true,,517,719,4,4,http://stagingupc.hostedinsurance.com/AgentPortal/Client-flow?vn=HomePageView&wm=pnc-policy-userworkbench-ui&wn=UserWorkBench&vm=pnc-policy-userworkbench-ui,277,0,0
+1582304637716,1111,UPC_HomePage-1,302,Moved Temporarily,Thread Group 1-2,,true,,355,719,4,4,https://stagingupc.hostedinsurance.com/AgentPortal/Client-flow?vn=HomePageView&wm=pnc-policy-userworkbench-ui&wn=UserWorkBench&vm=pnc-policy-userworkbench-ui,1111,0,829
+1582304638827,561,UPC_HomePage-2,301,Moved Permanently,Thread Group 1-2,text,true,,416,618,4,4,http://stagingupc.hostedinsurance.com/AgentPortal/login,561,0,4
+1582304639389,284,UPC_HomePage-3,200,OK,Thread Group 1-2,text,true,,2713,618,4,4,https://stagingupc.hostedinsurance.com/AgentPortal/login,284,0,0
+1582304637633,2211,UPC_HomePage,200,OK,Thread Group 1-4,text,true,,4001,2674,3,3,https://stagingupc.hostedinsurance.com/AgentPortal/login,287,0,0
+1582304637633,287,UPC_HomePage-0,301,Moved Permanently,Thread Group 1-4,text,true,,517,719,3,3,http://stagingupc.hostedinsurance.com/AgentPortal/Client-flow?vn=HomePageView&wm=pnc-policy-userworkbench-ui&wn=UserWorkBench&vm=pnc-policy-userworkbench-ui,287,0,0
+1582304637920,1092,UPC_HomePage-1,302,Moved Temporarily,Thread Group 1-4,,true,,355,719,3,3,https://stagingupc.hostedinsurance.com/AgentPortal/Client-flow?vn=HomePageView&wm=pnc-policy-userworkbench-ui&wn=UserWorkBench&vm=pnc-policy-userworkbench-ui,1092,0,812
+1582304639012,555,UPC_HomePage-2,301,Moved Permanently,Thread Group 1-4,text,true,,416,618,3,3,http://stagingupc.hostedinsurance.com/AgentPortal/login,555,0,3
+1582304639568,276,UPC_HomePage-3,200,OK,Thread Group 1-4,text,true,,2713,618,3,3,https://stagingupc.hostedinsurance.com/AgentPortal/login,275,0,0
+1582304649397,2150,UPC_Login,200,OK,Thread Group 1-3,text,true,,3915,2458,2,2,https://stagingupc.hostedinsurance.com/AgentPortal/login;jsessionid=tYeYjmvmETPqmyLrBqnhTqTM.undefined?login_error=1,1184,0,864
+1582304649397,1184,UPC_Login-0,302,Moved Temporarily,Thread Group 1-3,,true,,566,766,2,2,https://stagingupc.hostedinsurance.com/AgentPortal/loginProcess,1184,0,864
+1582304650586,675,UPC_Login-1,301,Moved Permanently,Thread Group 1-3,text,true,,476,846,2,2,http://stagingupc.hostedinsurance.com/AgentPortal/login;jsessionid=tYeYjmvmETPqmyLrBqnhTqTM.undefined?login_error=1,675,0,6
+1582304651262,285,UPC_Login-2,200,OK,Thread Group 1-3,text,true,,2873,846,2,2,https://stagingupc.hostedinsurance.com/AgentPortal/login;jsessionid=tYeYjmvmETPqmyLrBqnhTqTM.undefined?login_error=1,284,0,0
+1582304652146,2294,UPC_HomePage,200,OK,Thread Group 1-3,text,true,,3994,2674,2,2,https://stagingupc.hostedinsurance.com/AgentPortal/login,296,0,0
+1582304652146,296,UPC_HomePage-0,301,Moved Permanently,Thread Group 1-3,text,true,,517,719,2,2,http://stagingupc.hostedinsurance.com/AgentPortal/Client-flow?vn=HomePageView&wm=pnc-policy-userworkbench-ui&wn=UserWorkBench&vm=pnc-policy-userworkbench-ui,296,0,0
+1582304652443,1151,UPC_HomePage-1,302,Moved Temporarily,Thread Group 1-3,,true,,355,719,2,2,https://stagingupc.hostedinsurance.com/AgentPortal/Client-flow?vn=HomePageView&wm=pnc-policy-userworkbench-ui&wn=UserWorkBench&vm=pnc-policy-userworkbench-ui,1151,0,863
+1582304653596,553,UPC_HomePage-2,301,Moved Permanently,Thread Group 1-3,text,true,,416,618,2,2,http://stagingupc.hostedinsurance.com/AgentPortal/login,552,0,7
+1582304654149,291,UPC_HomePage-3,200,OK,Thread Group 1-3,text,true,,2706,618,2,2,https://stagingupc.hostedinsurance.com/AgentPortal/login,291,0,0
+1582304655321,2180,UPC_Login,200,OK,Thread Group 1-5,text,true,,3909,2458,1,1,https://stagingupc.hostedinsurance.com/AgentPortal/login;jsessionid=a4gYHe6DUf20wTTsdn5ozJSx.undefined?login_error=1,1263,0,916
+1582304655321,1263,UPC_Login-0,302,Moved Temporarily,Thread Group 1-5,,true,,566,766,1,1,https://stagingupc.hostedinsurance.com/AgentPortal/loginProcess,1263,0,916
+1582304656587,613,UPC_Login-1,301,Moved Permanently,Thread Group 1-5,text,true,,476,846,1,1,http://stagingupc.hostedinsurance.com/AgentPortal/login;jsessionid=a4gYHe6DUf20wTTsdn5ozJSx.undefined?login_error=1,613,0,6
+1582304657201,300,UPC_Login-2,200,OK,Thread Group 1-5,text,true,,2867,846,1,1,https://stagingupc.hostedinsurance.com/AgentPortal/login;jsessionid=a4gYHe6DUf20wTTsdn5ozJSx.undefined?login_error=1,300,0,0
+1582304657512,2255,UPC_HomePage,200,OK,Thread Group 1-5,text,true,,4001,2674,1,1,https://stagingupc.hostedinsurance.com/AgentPortal/login,280,0,0
+1582304657512,280,UPC_HomePage-0,301,Moved Permanently,Thread Group 1-5,text,true,,517,719,1,1,http://stagingupc.hostedinsurance.com/AgentPortal/Client-flow?vn=HomePageView&wm=pnc-policy-userworkbench-ui&wn=UserWorkBench&vm=pnc-policy-userworkbench-ui,280,0,0
+1582304657793,1090,UPC_HomePage-1,302,Moved Temporarily,Thread Group 1-5,,true,,355,719,1,1,https://stagingupc.hostedinsurance.com/AgentPortal/Client-flow?vn=HomePageView&wm=pnc-policy-userworkbench-ui&wn=UserWorkBench&vm=pnc-policy-userworkbench-ui,1090,0,819
+1582304658885,602,UPC_HomePage-2,301,Moved Permanently,Thread Group 1-5,text,true,,416,618,1,1,http://stagingupc.hostedinsurance.com/AgentPortal/login,602,0,5
+1582304659488,279,UPC_HomePage-3,200,OK,Thread Group 1-5,text,true,,2713,618,1,1,https://stagingupc.hostedinsurance.com/AgentPortal/login,278,0,0

@@ -1,0 +1,1343 @@
+2020-10-01 12:53:26 INFO  - 
+
++===========================================================================================================+
+2020-10-01 12:53:26 INFO  -  Suite started at Thu Oct 01 12:53:26 IST 2020
+2020-10-01 12:53:26 INFO  - Suite Execution For Web application on environment : Local
+2020-10-01 12:53:26 INFO  - Suite Execution For Android mobile application on version: 7.1.1
+2020-10-01 12:53:26 INFO  - Suite Execution For RestAPI on URL: https://townsqd.com/api
+2020-10-01 12:53:26 INFO  - 
+
++===========================================================================================================+
+2020-10-01 12:53:27 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-01 12:53:27 INFO  - Test Started: PBX Plus Login Functionality
+2020-10-01 12:53:27 INFO  - Test is executed in Environment: Local
+2020-10-01 12:53:27 INFO  - Test is started with browser: CHROME
+2020-10-01 12:53:28 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-01 12:53:28 INFO  - Test Started: PBX Plus CallFlow Adding Functionality
+2020-10-01 12:53:28 INFO  - Test is executed in Environment: Local
+2020-10-01 12:53:28 INFO  - Test is started with browser: CHROME
+2020-10-01 12:53:28 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-01 12:53:28 INFO  - Test Started: PBX Plus CallFlow Adding Edit Functionality
+2020-10-01 12:53:28 INFO  - Test is executed in Environment: Local
+2020-10-01 12:53:28 INFO  - Test is started with browser: CHROME
+2020-10-01 12:53:28 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-01 12:53:28 INFO  - Test Started: PBX Plus CallFlow Adding Inactive and Active Functionality with Views
+2020-10-01 12:53:28 INFO  - Test is executed in Environment: Local
+2020-10-01 12:53:28 INFO  - Test is started with browser: CHROME
+2020-10-01 12:53:28 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-01 12:53:28 INFO  - Test Started: PBX Plus CallFlow Adding Delete Functionality
+2020-10-01 12:53:28 INFO  - Test is executed in Environment: Local
+2020-10-01 12:53:28 INFO  - Test is started with browser: CHROME
+2020-10-01 12:53:28 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-01 12:53:28 INFO  - Test Started: PBX Plus numbers Functionality
+2020-10-01 12:53:28 INFO  - Test is executed in Environment: Local
+2020-10-01 12:53:28 INFO  - Test is started with browser: CHROME
+2020-10-01 12:53:28 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-01 12:53:28 INFO  - Test Started: PBX Plus numbers Edit Functionality
+2020-10-01 12:53:28 INFO  - Test is executed in Environment: Local
+2020-10-01 12:53:28 INFO  - Test is started with browser: CHROME
+2020-10-01 12:53:28 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-01 12:53:28 INFO  - Test Started: PBX Plus numbers delete Functionality
+2020-10-01 12:53:28 INFO  - Test is executed in Environment: Local
+2020-10-01 12:53:28 INFO  - Test is started with browser: CHROME
+2020-10-01 12:53:28 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-01 12:53:28 INFO  - Test Started: PBX Plus media Functionality
+2020-10-01 12:53:28 INFO  - Test is executed in Environment: Local
+2020-10-01 12:53:28 INFO  - Test is started with browser: CHROME
+2020-10-01 12:53:28 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-01 12:53:28 INFO  - Test Started: PBX Plus Voicemails Functionality
+2020-10-01 12:53:28 INFO  - Test is executed in Environment: Local
+2020-10-01 12:53:28 INFO  - Test is started with browser: CHROME
+2020-10-01 12:53:28 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-01 12:53:28 INFO  - Test Started: PBX Plus CallFlow Adding Integration Functionality
+2020-10-01 12:53:28 INFO  - Test is executed in Environment: Local
+2020-10-01 12:53:28 INFO  - Test is started with browser: CHROME
+2020-10-01 12:53:30 INFO  - Closing Browsers
+2020-10-01 12:53:30 INFO  -  suite finished at Thu Oct 01 12:53:30 IST 2020
+2020-10-01 12:53:30 INFO  - 
+
++===========================================================================================================+
+2020-10-01 12:53:31 INFO  - Test process has ended
+2020-10-01 12:53:31 INFO  - Email Flag Set To: Y
+2020-10-01 13:01:32 INFO  - 
+
++===========================================================================================================+
+2020-10-01 13:01:32 INFO  -  Suite started at Thu Oct 01 13:01:32 IST 2020
+2020-10-01 13:01:32 INFO  - Suite Execution For Web application on environment : Local
+2020-10-01 13:01:32 INFO  - Suite Execution For Android mobile application on version: 7.1.1
+2020-10-01 13:01:32 INFO  - Suite Execution For RestAPI on URL: https://townsqd.com/api
+2020-10-01 13:01:32 INFO  - 
+
++===========================================================================================================+
+2020-10-01 13:01:40 INFO  - CHROME : Browser Launched and Maximized.
+2020-10-01 13:01:41 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-01 13:01:41 INFO  - Test Started: PBX Plus Login Functionality
+2020-10-01 13:01:41 INFO  - Test is executed in Environment: Local
+2020-10-01 13:01:41 INFO  - Test is started with browser: CHROME
+2020-10-01 13:01:44 INFO  - Navigate to: https://portal.500apps.io
+2020-10-01 13:03:38 INFO  - 
+
++===========================================================================================================+
+2020-10-01 13:03:38 INFO  -  Suite started at Thu Oct 01 13:03:38 IST 2020
+2020-10-01 13:03:38 INFO  - Suite Execution For Web application on environment : Local
+2020-10-01 13:03:38 INFO  - Suite Execution For Android mobile application on version: 7.1.1
+2020-10-01 13:03:38 INFO  - Suite Execution For RestAPI on URL: https://townsqd.com/api
+2020-10-01 13:03:38 INFO  - 
+
++===========================================================================================================+
+2020-10-01 13:04:01 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-01 13:04:01 INFO  - Test Started: PBX Plus Login Functionality
+2020-10-01 13:04:01 INFO  - Test is executed in Environment: Local
+2020-10-01 13:04:01 INFO  - Test is started with browser: CHROMELINUX
+2020-10-01 13:04:01 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-01 13:04:01 INFO  - Test Started: PBX Plus CallFlow Adding Functionality
+2020-10-01 13:04:01 INFO  - Test is executed in Environment: Local
+2020-10-01 13:04:01 INFO  - Test is started with browser: CHROMELINUX
+2020-10-01 13:04:01 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-01 13:04:01 INFO  - Test Started: PBX Plus CallFlow Adding Edit Functionality
+2020-10-01 13:04:01 INFO  - Test is executed in Environment: Local
+2020-10-01 13:04:01 INFO  - Test is started with browser: CHROMELINUX
+2020-10-01 13:04:02 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-01 13:04:02 INFO  - Test Started: PBX Plus CallFlow Adding Inactive and Active Functionality with Views
+2020-10-01 13:04:02 INFO  - Test is executed in Environment: Local
+2020-10-01 13:04:02 INFO  - Test is started with browser: CHROMELINUX
+2020-10-01 13:04:02 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-01 13:04:02 INFO  - Test Started: PBX Plus CallFlow Adding Delete Functionality
+2020-10-01 13:04:02 INFO  - Test is executed in Environment: Local
+2020-10-01 13:04:02 INFO  - Test is started with browser: CHROMELINUX
+2020-10-01 13:04:02 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-01 13:04:02 INFO  - Test Started: PBX Plus numbers Functionality
+2020-10-01 13:04:02 INFO  - Test is executed in Environment: Local
+2020-10-01 13:04:02 INFO  - Test is started with browser: CHROMELINUX
+2020-10-01 13:04:02 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-01 13:04:02 INFO  - Test Started: PBX Plus numbers Edit Functionality
+2020-10-01 13:04:02 INFO  - Test is executed in Environment: Local
+2020-10-01 13:04:02 INFO  - Test is started with browser: CHROMELINUX
+2020-10-01 13:04:02 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-01 13:04:02 INFO  - Test Started: PBX Plus numbers delete Functionality
+2020-10-01 13:04:02 INFO  - Test is executed in Environment: Local
+2020-10-01 13:04:02 INFO  - Test is started with browser: CHROMELINUX
+2020-10-01 13:04:02 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-01 13:04:02 INFO  - Test Started: PBX Plus media Functionality
+2020-10-01 13:04:02 INFO  - Test is executed in Environment: Local
+2020-10-01 13:04:02 INFO  - Test is started with browser: CHROMELINUX
+2020-10-01 13:04:02 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-01 13:04:02 INFO  - Test Started: PBX Plus Voicemails Functionality
+2020-10-01 13:04:02 INFO  - Test is executed in Environment: Local
+2020-10-01 13:04:02 INFO  - Test is started with browser: CHROMELINUX
+2020-10-01 13:04:02 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-01 13:04:02 INFO  - Test Started: PBX Plus CallFlow Adding Integration Functionality
+2020-10-01 13:04:02 INFO  - Test is executed in Environment: Local
+2020-10-01 13:04:02 INFO  - Test is started with browser: CHROMELINUX
+2020-10-01 13:04:04 INFO  - Closing Browsers
+2020-10-01 13:04:04 INFO  -  suite finished at Thu Oct 01 13:04:04 IST 2020
+2020-10-01 13:04:04 INFO  - 
+
++===========================================================================================================+
+2020-10-01 13:04:05 INFO  - Test process has ended
+2020-10-01 13:04:05 INFO  - Email Flag Set To: Y
+2020-10-01 13:09:55 INFO  - 
+
++===========================================================================================================+
+2020-10-01 13:09:55 INFO  -  Suite started at Thu Oct 01 13:09:55 IST 2020
+2020-10-01 13:09:55 INFO  - Suite Execution For Web application on environment : Local
+2020-10-01 13:09:55 INFO  - Suite Execution For Android mobile application on version: 7.1.1
+2020-10-01 13:09:55 INFO  - Suite Execution For RestAPI on URL: https://townsqd.com/api
+2020-10-01 13:09:55 INFO  - 
+
++===========================================================================================================+
+2020-10-01 13:10:02 INFO  - CHROMEHEADLESS : Browser Launched and Maximized.
+2020-10-01 13:10:04 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-01 13:10:04 INFO  - Test Started: PBX Plus Login Functionality
+2020-10-01 13:10:04 INFO  - Test is executed in Environment: Local
+2020-10-01 13:10:04 INFO  - Test is started with browser: CHROMEHEADLESS
+2020-10-01 13:10:07 INFO  - Navigate to: https://portal.500apps.io
+2020-10-01 13:10:17 INFO  - Input Text: stgcheck1@yopmail.com - By.name: email
+2020-10-01 13:10:19 INFO  - Input Text: stgcheck1 - By.name: password
+2020-10-01 13:10:23 INFO  - Click: By.xpath: //button[@type='submit']
+2020-10-01 13:10:44 INFO  - Select value by text from the list : Pbxplus - By.xpath: //*[@class='border-0 card-body card-padding']/h5
+2020-10-01 13:10:47 INFO  - Select value by text from the list : Call Flows - By.xpath: //span[contains(text(),'Call Flows')]
+2020-10-01 13:10:47 INFO  - Test has ended closing browser: CHROMEHEADLESS
+2020-10-01 13:10:47 INFO  - Jira tool is Disabled in Control sheet
+2020-10-01 13:10:47 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-01 13:10:47 INFO  - Test Started: PBX Plus CallFlow Adding Functionality
+2020-10-01 13:10:47 INFO  - Test is executed in Environment: Local
+2020-10-01 13:10:47 INFO  - Test is started with browser: CHROMEHEADLESS
+2020-10-01 13:10:54 INFO  - Select value by text from the list : Call Flows - By.xpath: //span[contains(text(),'Call Flows')]
+2020-10-01 13:10:54 INFO  - Click : By.xpath: //button[contains(text(),'Add Call flow')]
+2020-10-01 13:10:56 INFO  - Input Text: PBXCallFlowE5FO - By.xpath: //input[contains(@placeholder,'Enter Name')]
+2020-10-01 13:10:57 INFO  - Get Element text: By.xpath: //input[contains(@placeholder,'Enter Name')]
+2020-10-01 13:10:58 INFO  - Input Text: PBXCallDescriptionE5FO - By.xpath: //input[contains(@placeholder,'Enter Description')]
+2020-10-01 13:11:03 INFO  - Click: By.xpath: //*[@class='nodetitle ui-draggable']/following::label[text()='Text To Speech']
+2020-10-01 13:11:06 INFO  - Input Text: Welcome To PBXplusE5FO - By.xpath: //textarea[@name='tts']
+2020-10-01 13:11:12 INFO  - Click: By.xpath: //div[@class='ui-dialog-buttonset']/button
+2020-10-01 13:11:22 INFO  - Click: By.xpath: //*[@class='nodetitle ui-draggable']/following::label[text()='Play Audio']
+2020-10-01 13:11:26 INFO  - Select dropdown by text : Media1 - By.xpath: //*[@class='ui-dialog-content ui-widget-content']/form/fieldset/div[2]/div/div/select
+2020-10-01 13:12:32 INFO  - Click: By.xpath: //div[11]//div[1]//button[1]//span[2]
+2020-10-01 13:12:45 INFO  - Click: By.xpath: //*[@class='ui-widget' and text()='Business Hours']
+2020-10-01 13:12:48 INFO  - Input Text: 10:00 - By.xpath: //input[@name='From-Time']
+2020-10-01 13:12:49 INFO  - Input Text: 19:00 - By.xpath: //input[@name='To-Time']
+2020-10-01 13:12:54 INFO  - Click: By.xpath: //div[11]//div[1]//button[1]//span[2]
+2020-10-01 13:12:58 INFO  - Jira Bug tool is Disabled in Control sheet
+2020-10-01 13:12:58 INFO  - Jira tool is Disabled in Control sheet
+2020-10-01 13:12:58 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-01 13:12:58 INFO  - Test Started: PBX Plus CallFlow Adding Edit Functionality
+2020-10-01 13:12:58 INFO  - Test is executed in Environment: Local
+2020-10-01 13:12:58 INFO  - Test is started with browser: CHROMEHEADLESS
+2020-10-01 13:13:04 INFO  - Select value by text from the list : Call Flows - By.xpath: //span[contains(text(),'Call Flows')]
+2020-10-01 13:14:07 INFO  - Jira Bug tool is Disabled in Control sheet
+2020-10-01 13:14:07 INFO  - Jira tool is Disabled in Control sheet
+2020-10-01 13:14:07 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-01 13:14:07 INFO  - Test Started: PBX Plus CallFlow Adding Inactive and Active Functionality with Views
+2020-10-01 13:14:07 INFO  - Test is executed in Environment: Local
+2020-10-01 13:14:07 INFO  - Test is started with browser: CHROMEHEADLESS
+2020-10-01 13:14:17 INFO  - Select value by text from the list : Call Flows - By.xpath: //span[contains(text(),'Call Flows')]
+2020-10-01 13:15:23 INFO  - Jira Bug tool is Disabled in Control sheet
+2020-10-01 13:15:23 INFO  - Jira tool is Disabled in Control sheet
+2020-10-01 13:15:23 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-01 13:15:23 INFO  - Test Started: PBX Plus CallFlow Adding Delete Functionality
+2020-10-01 13:15:23 INFO  - Test is executed in Environment: Local
+2020-10-01 13:15:23 INFO  - Test is started with browser: CHROMEHEADLESS
+2020-10-01 13:16:30 INFO  - Jira Bug tool is Disabled in Control sheet
+2020-10-01 13:16:30 INFO  - Jira tool is Disabled in Control sheet
+2020-10-01 13:16:30 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-01 13:16:30 INFO  - Test Started: PBX Plus numbers Functionality
+2020-10-01 13:16:30 INFO  - Test is executed in Environment: Local
+2020-10-01 13:16:30 INFO  - Test is started with browser: CHROMEHEADLESS
+2020-10-01 13:17:39 INFO  - Jira Bug tool is Disabled in Control sheet
+2020-10-01 13:17:39 INFO  - Jira tool is Disabled in Control sheet
+2020-10-01 13:17:39 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-01 13:17:39 INFO  - Test Started: PBX Plus numbers Edit Functionality
+2020-10-01 13:17:39 INFO  - Test is executed in Environment: Local
+2020-10-01 13:17:39 INFO  - Test is started with browser: CHROMEHEADLESS
+2020-10-01 13:18:46 INFO  - Jira Bug tool is Disabled in Control sheet
+2020-10-01 13:18:46 INFO  - Jira tool is Disabled in Control sheet
+2020-10-01 13:18:46 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-01 13:18:46 INFO  - Test Started: PBX Plus numbers delete Functionality
+2020-10-01 13:18:46 INFO  - Test is executed in Environment: Local
+2020-10-01 13:18:46 INFO  - Test is started with browser: CHROMEHEADLESS
+2020-10-01 13:18:56 INFO  - Select value by text from the list : Numbers - By.xpath: //span[contains(text(),'Numbers')]
+2020-10-01 13:19:59 INFO  - Jira Bug tool is Disabled in Control sheet
+2020-10-01 13:19:59 INFO  - Jira tool is Disabled in Control sheet
+2020-10-01 13:19:59 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-01 13:19:59 INFO  - Test Started: PBX Plus media Functionality
+2020-10-01 13:19:59 INFO  - Test is executed in Environment: Local
+2020-10-01 13:19:59 INFO  - Test is started with browser: CHROMEHEADLESS
+2020-10-01 13:20:06 INFO  - Select value by text from the list : Media - By.xpath: //span[contains(text(),'Media')]
+2020-10-01 13:21:06 INFO  - Click : By.xpath: //button[@class='btn btn-primary text-nowrap active']
+2020-10-01 13:21:07 INFO  - Jira Bug tool is Disabled in Control sheet
+2020-10-01 13:21:07 INFO  - Jira tool is Disabled in Control sheet
+2020-10-01 13:21:07 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-01 13:21:07 INFO  - Test Started: PBX Plus Voicemails Functionality
+2020-10-01 13:21:07 INFO  - Test is executed in Environment: Local
+2020-10-01 13:21:07 INFO  - Test is started with browser: CHROMEHEADLESS
+2020-10-01 13:21:16 INFO  - Select value by text from the list : Voicemails - By.xpath: //span[contains(text(),'Voicemails')]
+2020-10-01 13:22:17 INFO  - Jira Bug tool is Disabled in Control sheet
+2020-10-01 13:22:17 INFO  - Jira tool is Disabled in Control sheet
+2020-10-01 13:22:17 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-01 13:22:17 INFO  - Test Started: PBX Plus CallFlow Adding Integration Functionality
+2020-10-01 13:22:17 INFO  - Test is executed in Environment: Local
+2020-10-01 13:22:17 INFO  - Test is started with browser: CHROMEHEADLESS
+2020-10-01 13:22:23 INFO  - Select value by text from the list : Call Flows - By.xpath: //span[contains(text(),'Call Flows')]
+2020-10-01 13:22:26 INFO  - Select value by text from the list : Integrations - By.xpath: //span[contains(text(),'Integrations')]
+2020-10-01 13:23:28 INFO  - Get Element text: By.xpath: //h5[contains(text(),'twilio')]//following::button[1]
+2020-10-01 13:23:28 INFO  - Jira Bug tool is Disabled in Control sheet
+2020-10-01 13:23:28 INFO  - Jira tool is Disabled in Control sheet
+2020-10-01 13:23:31 INFO  - Closing Browsers
+2020-10-01 13:23:31 INFO  -  suite finished at Thu Oct 01 13:23:31 IST 2020
+2020-10-01 13:23:31 INFO  - 
+
++===========================================================================================================+
+2020-10-01 13:23:32 INFO  - Test process has ended
+2020-10-01 13:23:32 INFO  - Email Flag Set To: Y
+2020-10-01 13:29:34 INFO  - 
+
++===========================================================================================================+
+2020-10-01 13:29:34 INFO  -  Suite started at Thu Oct 01 13:29:34 IST 2020
+2020-10-01 13:29:34 INFO  - Suite Execution For Web application on environment : Local
+2020-10-01 13:29:34 INFO  - Suite Execution For Android mobile application on version: 7.1.1
+2020-10-01 13:29:34 INFO  - Suite Execution For RestAPI on URL: https://townsqd.com/api
+2020-10-01 13:29:34 INFO  - 
+
++===========================================================================================================+
+2020-10-01 13:29:41 INFO  - CHROME : Browser Launched and Maximized.
+2020-10-01 13:29:43 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-01 13:29:43 INFO  - Test Started: Botup CallFlow Login Functionality
+2020-10-01 13:29:43 INFO  - Test is executed in Environment: Local
+2020-10-01 13:29:43 INFO  - Test is started with browser: CHROME
+2020-10-01 13:29:46 INFO  - Navigate to: https://portal.500apps.io/#/login
+2020-10-01 13:29:57 INFO  - Input Text: sainathdev1@yopmail.com - By.name: email
+2020-10-01 13:29:59 INFO  - Input Text: sainathdev1 - By.name: password
+2020-10-01 13:30:04 INFO  - Click: By.xpath: //button[@type='submit']
+2020-10-01 13:45:00 INFO  - 
+
++===========================================================================================================+
+2020-10-01 13:45:00 INFO  -  Suite started at Thu Oct 01 13:45:00 IST 2020
+2020-10-01 13:45:00 INFO  - Suite Execution For Web application on environment : Local
+2020-10-01 13:45:00 INFO  - Suite Execution For Android mobile application on version: 7.1.1
+2020-10-01 13:45:00 INFO  - Suite Execution For RestAPI on URL: https://townsqd.com/api
+2020-10-01 13:45:00 INFO  - 
+
++===========================================================================================================+
+2020-10-01 13:45:07 INFO  - CHROME : Browser Launched and Maximized.
+2020-10-01 13:45:08 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-01 13:45:08 INFO  - Test Started: Botup CallFlow Login Functionality
+2020-10-01 13:45:08 INFO  - Test is executed in Environment: Local
+2020-10-01 13:45:08 INFO  - Test is started with browser: CHROME
+2020-10-01 13:45:11 INFO  - Navigate to: https://portal.500apps.io/#/login
+2020-10-01 13:45:22 INFO  - Input Text: stgcheck1@yopmail.com - By.name: email
+2020-10-01 13:45:24 INFO  - Input Text: stgcheck1 - By.name: password
+2020-10-01 13:45:28 INFO  - Click: By.xpath: //button[@type='submit']
+2020-10-01 13:45:52 INFO  - Select value by text from the list : Botup - By.xpath: //*[@class='border-0 card-body card-padding']/h5
+2020-10-01 13:45:55 INFO  - Select value by text from the list : Dashboard - By.xpath: //span[contains(text(),'Dashboard')]
+2020-10-01 13:45:55 INFO  - Test has ended closing browser: CHROME
+2020-10-01 13:45:55 INFO  - Jira tool is Disabled in Control sheet
+2020-10-01 13:45:55 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-01 13:45:55 INFO  - Test Started: Botup bots Functionality
+2020-10-01 13:45:55 INFO  - Test is executed in Environment: Local
+2020-10-01 13:45:55 INFO  - Test is started with browser: CHROME
+2020-10-01 13:46:01 INFO  - Select value by text from the list : Bots - By.xpath: //span[contains(text(),'Bots')]
+2020-10-01 13:46:04 INFO  - Select value by text from the list : Bots - By.xpath: //span[contains(text(),'Bots')]
+2020-10-01 13:46:04 INFO  - Click : By.xpath: //button[contains(text(),'Add Bot')]
+2020-10-01 13:46:08 INFO  - Click: By.xpath: //span[contains(text(),'Please select an option')]
+2020-10-01 13:46:15 INFO  - Input Text: Test Bot - By.id: input_undefined
+2020-10-01 13:46:21 INFO  - Click: By.xpath: //*[ @data-vv-as='Category']/div/button
+2020-10-01 13:46:33 INFO  - Click: By.xpath: //button[@class='btn submit-button btn-primary']
+2020-10-01 13:46:43 INFO  - Click: By.xpath: //ul[contains(@class,'dropdown-menu dropdown-menu-right show')]//span[contains(text(),'Edit')]
+2020-10-01 13:46:52 INFO  - Click: By.xpath: //span[contains(text(),'Lead Generation Template')]
+2020-10-01 13:46:58 INFO  - Input Text: Test Another Bot - By.id: input_undefined
+2020-10-01 13:47:04 INFO  - Click: By.xpath: //*[ @data-vv-as='Category']/div/button
+2020-10-01 13:47:16 INFO  - Click: By.xpath: //button[@class='btn submit-button btn-primary']
+2020-10-01 13:47:27 INFO  - Click: By.xpath: //span[contains(text(),'Active')]
+2020-10-01 13:47:34 INFO  - Click: By.xpath: //span[contains(text(),'active')]
+2020-10-01 13:47:41 INFO  - Click: By.xpath: //button[@class='btn submit-button btn-primary']
+2020-10-01 13:47:52 INFO  - Click: By.xpath: //span[contains(text(),'Active')]
+2020-10-01 13:47:59 INFO  - Click: By.xpath: //span[contains(text(),'active')]
+2020-10-01 13:48:06 INFO  - Click: By.xpath: //button[@class='btn submit-button btn-primary']
+2020-10-01 13:48:17 INFO  - Click: By.xpath: //ul[contains(@class,'dropdown-menu dropdown-menu-right show')]//span[contains(text(),'Delete')]
+2020-10-01 13:48:24 INFO  - Click: By.xpath: //button[contains(@class,'btn btn-danger')]
+2020-10-01 13:48:25 INFO  - Test has ended closing browser: CHROME
+2020-10-01 13:48:25 INFO  - Jira tool is Disabled in Control sheet
+2020-10-01 13:48:25 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-01 13:48:25 INFO  - Test Started: Botup Document Functionality
+2020-10-01 13:48:25 INFO  - Test is executed in Environment: Local
+2020-10-01 13:48:25 INFO  - Test is started with browser: CHROME
+2020-10-01 13:48:31 INFO  - Select value by text from the list : Documents - By.xpath: //span[contains(text(),'Documents')]
+2020-10-01 13:48:32 INFO  - Click : By.xpath: //button[contains(@class,'btn btn-primary text-nowrap active')]
+2020-10-01 13:48:33 INFO  - Input Text: Test Document - By.xpath: //*[@placeholder='Enter Name']
+2020-10-01 13:48:41 INFO  - Click: By.xpath: //button[contains(@class,'btn submit-button btn-primary')]
+2020-10-01 13:48:50 INFO  - Click: By.xpath: //ul[contains(@class,'dropdown-menu dropdown-menu-right show')]//span[contains(text(),'Delete')]
+2020-10-01 13:48:56 INFO  - Click: By.xpath: //button[@class='btn btn-danger']
+2020-10-01 13:48:58 INFO  - Test has ended closing browser: CHROME
+2020-10-01 13:48:58 INFO  - Jira tool is Disabled in Control sheet
+2020-10-01 13:48:58 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-01 13:48:58 INFO  - Test Started: Botup Flow Functionality
+2020-10-01 13:48:58 INFO  - Test is executed in Environment: Local
+2020-10-01 13:48:58 INFO  - Test is started with browser: CHROME
+2020-10-01 13:49:04 INFO  - Select value by text from the list : Flows - By.xpath: //span[contains(text(),'Flows')]
+2020-10-01 13:49:06 INFO  - Click : By.xpath: //button[contains(@class,'btn btn-primary text-nowrap active')]
+2020-10-01 13:49:07 INFO  - Click : By.xpath: //h6[contains(text(),'Business Information Template')]
+2020-10-01 13:49:14 INFO  - Click: By.xpath: //button[contains(@class,'btn submit-button btn-primary')]
+2020-10-01 13:49:24 INFO  - Click: By.xpath: //ul[contains(@class,'dropdown-menu dropdown-menu-right show')]//span[contains(text(),'Edit')]
+2020-10-01 13:49:30 INFO  - Input Text:  Edit Test Flow - By.xpath: //input[@placeholder='Enter Name']
+2020-10-01 13:49:36 INFO  - Click: By.xpath: //*[@class='nodetitle ui-draggable']/following::label[text()='Message']
+2020-10-01 13:49:38 INFO  - Input Text: Welcome To BotupZBV6 - By.xpath: //textarea[contains(@placeholder,'Please enter your Response')]
+2020-10-01 13:49:45 INFO  - Click: By.xpath: //button[contains(@class,'btn submit-button btn-primary')]
+2020-10-01 13:49:58 INFO  - Click: By.xpath: //ul[contains(@class,'dropdown-menu dropdown-menu-right show')]//span[contains(text(),'Delete')]
+2020-10-01 13:50:05 INFO  - Click: By.xpath: //button[contains(@class,'btn btn-danger')]
+2020-10-01 13:50:06 INFO  - Test has ended closing browser: CHROME
+2020-10-01 13:50:06 INFO  - Jira tool is Disabled in Control sheet
+2020-10-01 13:50:06 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-01 13:50:06 INFO  - Test Started: Botup Contact Functionality
+2020-10-01 13:50:06 INFO  - Test is executed in Environment: Local
+2020-10-01 13:50:06 INFO  - Test is started with browser: CHROME
+2020-10-01 13:51:14 INFO  - Jira Bug tool is Disabled in Control sheet
+2020-10-01 13:51:14 INFO  - Jira tool is Disabled in Control sheet
+2020-10-01 13:51:17 INFO  - Closing Browsers
+2020-10-01 13:51:17 INFO  -  suite finished at Thu Oct 01 13:51:17 IST 2020
+2020-10-01 13:51:17 INFO  - 
+
++===========================================================================================================+
+2020-10-01 13:51:18 INFO  - Test process has ended
+2020-10-01 13:51:18 INFO  - Email Flag Set To: Y
+2020-10-01 13:53:41 INFO  - 
+
++===========================================================================================================+
+2020-10-01 13:53:41 INFO  -  Suite started at Thu Oct 01 13:53:41 IST 2020
+2020-10-01 13:53:41 INFO  - Suite Execution For Web application on environment : Local
+2020-10-01 13:53:41 INFO  - Suite Execution For Android mobile application on version: 7.1.1
+2020-10-01 13:53:41 INFO  - Suite Execution For RestAPI on URL: https://townsqd.com/api
+2020-10-01 13:53:41 INFO  - 
+
++===========================================================================================================+
+2020-10-01 13:54:03 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-01 13:54:03 INFO  - Test Started: Botup CallFlow Login Functionality
+2020-10-01 13:54:03 INFO  - Test is executed in Environment: Local
+2020-10-01 13:54:03 INFO  - Test is started with browser: CHROMELINUXHEADLESS
+2020-10-01 13:54:04 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-01 13:54:04 INFO  - Test Started: Botup bots Functionality
+2020-10-01 13:54:04 INFO  - Test is executed in Environment: Local
+2020-10-01 13:54:04 INFO  - Test is started with browser: CHROMELINUXHEADLESS
+2020-10-01 13:54:04 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-01 13:54:04 INFO  - Test Started: Botup Document Functionality
+2020-10-01 13:54:04 INFO  - Test is executed in Environment: Local
+2020-10-01 13:54:04 INFO  - Test is started with browser: CHROMELINUXHEADLESS
+2020-10-01 13:54:04 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-01 13:54:04 INFO  - Test Started: Botup Flow Functionality
+2020-10-01 13:54:04 INFO  - Test is executed in Environment: Local
+2020-10-01 13:54:04 INFO  - Test is started with browser: CHROMELINUXHEADLESS
+2020-10-01 13:54:04 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-01 13:54:04 INFO  - Test Started: Botup Contact Functionality
+2020-10-01 13:54:04 INFO  - Test is executed in Environment: Local
+2020-10-01 13:54:04 INFO  - Test is started with browser: CHROMELINUXHEADLESS
+2020-10-01 13:54:06 INFO  - Closing Browsers
+2020-10-01 13:54:06 INFO  -  suite finished at Thu Oct 01 13:54:06 IST 2020
+2020-10-01 13:54:06 INFO  - 
+
++===========================================================================================================+
+2020-10-01 13:54:07 INFO  - Test process has ended
+2020-10-01 13:54:07 INFO  - Email Flag Set To: Y
+2020-10-01 13:55:21 INFO  - 
+
++===========================================================================================================+
+2020-10-01 13:55:21 INFO  -  Suite started at Thu Oct 01 13:55:21 IST 2020
+2020-10-01 13:55:21 INFO  - Suite Execution For Web application on environment : Local
+2020-10-01 13:55:21 INFO  - Suite Execution For Android mobile application on version: 7.1.1
+2020-10-01 13:55:21 INFO  - Suite Execution For RestAPI on URL: https://townsqd.com/api
+2020-10-01 13:55:21 INFO  - 
+
++===========================================================================================================+
+2020-10-01 13:55:28 INFO  - CHROMEHEADLESS : Browser Launched and Maximized.
+2020-10-01 13:55:29 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-01 13:55:29 INFO  - Test Started: Botup CallFlow Login Functionality
+2020-10-01 13:55:29 INFO  - Test is executed in Environment: Local
+2020-10-01 13:55:29 INFO  - Test is started with browser: CHROMEHEADLESS
+2020-10-01 13:55:32 INFO  - Navigate to: https://portal.500apps.io/#/login
+2020-10-01 13:55:43 INFO  - Input Text: stgcheck1@yopmail.com - By.name: email
+2020-10-01 13:55:45 INFO  - Input Text: stgcheck1 - By.name: password
+2020-10-01 13:55:49 INFO  - Click: By.xpath: //button[@type='submit']
+2020-10-01 13:56:15 INFO  - Select value by text from the list : Botup - By.xpath: //*[@class='border-0 card-body card-padding']/h5
+2020-10-01 13:56:18 INFO  - Select value by text from the list : Dashboard - By.xpath: //span[contains(text(),'Dashboard')]
+2020-10-01 13:56:18 INFO  - Test has ended closing browser: CHROMEHEADLESS
+2020-10-01 13:56:18 INFO  - Jira tool is Disabled in Control sheet
+2020-10-01 13:56:18 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-01 13:56:18 INFO  - Test Started: Botup bots Functionality
+2020-10-01 13:56:18 INFO  - Test is executed in Environment: Local
+2020-10-01 13:56:18 INFO  - Test is started with browser: CHROMEHEADLESS
+2020-10-01 13:56:24 INFO  - Select value by text from the list : Bots - By.xpath: //span[contains(text(),'Bots')]
+2020-10-01 13:56:26 INFO  - Select value by text from the list : Bots - By.xpath: //span[contains(text(),'Bots')]
+2020-10-01 13:57:26 INFO  - Click : By.xpath: //button[contains(text(),'Add Bot')]
+2020-10-01 13:57:27 INFO  - Jira Bug tool is Disabled in Control sheet
+2020-10-01 13:57:27 INFO  - Jira tool is Disabled in Control sheet
+2020-10-01 13:57:27 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-01 13:57:27 INFO  - Test Started: Botup Document Functionality
+2020-10-01 13:57:27 INFO  - Test is executed in Environment: Local
+2020-10-01 13:57:27 INFO  - Test is started with browser: CHROMEHEADLESS
+2020-10-01 13:58:34 INFO  - Jira Bug tool is Disabled in Control sheet
+2020-10-01 13:58:34 INFO  - Jira tool is Disabled in Control sheet
+2020-10-01 13:58:34 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-01 13:58:34 INFO  - Test Started: Botup Flow Functionality
+2020-10-01 13:58:34 INFO  - Test is executed in Environment: Local
+2020-10-01 13:58:34 INFO  - Test is started with browser: CHROMEHEADLESS
+2020-10-01 13:58:41 INFO  - Select value by text from the list : Flows - By.xpath: //span[contains(text(),'Flows')]
+2020-10-01 13:59:42 INFO  - Click : By.xpath: //button[contains(@class,'btn btn-primary text-nowrap active')]
+2020-10-01 13:59:43 INFO  - Jira Bug tool is Disabled in Control sheet
+2020-10-01 13:59:43 INFO  - Jira tool is Disabled in Control sheet
+2020-10-01 13:59:43 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-01 13:59:43 INFO  - Test Started: Botup Contact Functionality
+2020-10-01 13:59:43 INFO  - Test is executed in Environment: Local
+2020-10-01 13:59:43 INFO  - Test is started with browser: CHROMEHEADLESS
+2020-10-01 13:59:49 INFO  - Select value by text from the list : Contacts - By.xpath: //a[@class='nav-link']//span[contains(text(),'Contacts')]
+2020-10-01 13:59:49 INFO  - Test has ended closing browser: CHROMEHEADLESS
+2020-10-01 13:59:49 INFO  - Jira tool is Disabled in Control sheet
+2020-10-01 13:59:52 INFO  - Closing Browsers
+2020-10-01 13:59:52 INFO  -  suite finished at Thu Oct 01 13:59:52 IST 2020
+2020-10-01 13:59:52 INFO  - 
+
++===========================================================================================================+
+2020-10-01 13:59:53 INFO  - Test process has ended
+2020-10-01 13:59:53 INFO  - Email Flag Set To: Y
+2020-10-01 14:21:35 INFO  - 
+
++===========================================================================================================+
+2020-10-01 14:21:35 INFO  -  Suite started at Thu Oct 01 14:21:35 IST 2020
+2020-10-01 14:21:35 INFO  - Suite Execution For Web application on environment : Local
+2020-10-01 14:21:35 INFO  - Suite Execution For Android mobile application on version: 7.1.1
+2020-10-01 14:21:35 INFO  - Suite Execution For RestAPI on URL: https://townsqd.com/api
+2020-10-01 14:21:35 INFO  - 
+
++===========================================================================================================+
+2020-10-01 14:21:42 INFO  - CHROMEHEADLESS : Browser Launched and Maximized.
+2020-10-01 14:21:43 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-01 14:21:43 INFO  - Test Started: Botup CallFlow Login Functionality
+2020-10-01 14:21:43 INFO  - Test is executed in Environment: Local
+2020-10-01 14:21:43 INFO  - Test is started with browser: CHROMEHEADLESS
+2020-10-01 14:21:46 INFO  - Navigate to: https://portal.500apps.io/#/login
+2020-10-01 14:21:56 INFO  - Input Text: stgcheck1@yopmail.com - By.name: email
+2020-10-01 14:21:58 INFO  - Input Text: stgcheck1 - By.name: password
+2020-10-01 14:22:02 INFO  - Click: By.xpath: //button[@type='submit']
+2020-10-01 14:22:24 INFO  - Select value by text from the list : Botup - By.xpath: //*[@class='border-0 card-body card-padding']/h5
+2020-10-01 14:22:27 INFO  - Select value by text from the list : Dashboard - By.xpath: //span[contains(text(),'Dashboard')]
+2020-10-01 14:22:27 INFO  - Test has ended closing browser: CHROMEHEADLESS
+2020-10-01 14:22:27 INFO  - Jira tool is Disabled in Control sheet
+2020-10-01 14:22:27 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-01 14:22:27 INFO  - Test Started: Botup bots Functionality
+2020-10-01 14:22:27 INFO  - Test is executed in Environment: Local
+2020-10-01 14:22:27 INFO  - Test is started with browser: CHROMEHEADLESS
+2020-10-01 14:23:33 INFO  - Select value by text from the list : Bots - By.xpath: //span[contains(text(),'Bots')]
+2020-10-01 14:23:35 INFO  - Select value by text from the list : Bots - By.xpath: //span[contains(text(),'Bots')]
+2020-10-01 14:24:35 INFO  - Click : By.xpath: //button[contains(text(),'Add Bot')]
+2020-10-01 14:24:36 INFO  - Jira Bug tool is Disabled in Control sheet
+2020-10-01 14:24:36 INFO  - Jira tool is Disabled in Control sheet
+2020-10-01 14:24:39 INFO  - Closing Browsers
+2020-10-01 14:24:39 INFO  -  suite finished at Thu Oct 01 14:24:39 IST 2020
+2020-10-01 14:24:39 INFO  - 
+
++===========================================================================================================+
+2020-10-01 14:24:40 INFO  - Test process has ended
+2020-10-01 14:24:40 INFO  - Email Flag Set To: Y
+2020-10-01 14:55:04 INFO  - 
+
++===========================================================================================================+
+2020-10-01 14:55:04 INFO  -  Suite started at Thu Oct 01 14:55:04 IST 2020
+2020-10-01 14:55:04 INFO  - Suite Execution For Web application on environment : Local
+2020-10-01 14:55:04 INFO  - Suite Execution For Android mobile application on version: 7.1.1
+2020-10-01 14:55:04 INFO  - Suite Execution For RestAPI on URL: https://townsqd.com/api
+2020-10-01 14:55:04 INFO  - 
+
++===========================================================================================================+
+2020-10-01 14:55:12 INFO  - CHROMEHEADLESS : Browser Launched and Maximized.
+2020-10-01 14:55:13 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-01 14:55:13 INFO  - Test Started: Botup CallFlow Login Functionality
+2020-10-01 14:55:13 INFO  - Test is executed in Environment: Local
+2020-10-01 14:55:13 INFO  - Test is started with browser: CHROMEHEADLESS
+2020-10-01 14:55:16 INFO  - Navigate to: https://portal.500apps.io/#/login
+2020-10-01 14:55:26 INFO  - Input Text: stgcheck1@yopmail.com - By.name: email
+2020-10-01 14:55:28 INFO  - Input Text: stgcheck1 - By.name: password
+2020-10-01 14:55:32 INFO  - Click: By.xpath: //button[@type='submit']
+2020-10-01 14:55:52 INFO  - Select value by text from the list : Botup - By.xpath: //*[@class='border-0 card-body card-padding']/h5
+2020-10-01 14:55:55 INFO  - Select value by text from the list : Dashboard - By.xpath: //span[contains(text(),'Dashboard')]
+2020-10-01 14:55:55 INFO  - Test has ended closing browser: CHROMEHEADLESS
+2020-10-01 14:55:55 INFO  - Jira tool is Disabled in Control sheet
+2020-10-01 14:55:55 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-01 14:55:55 INFO  - Test Started: Botup bots Functionality
+2020-10-01 14:55:55 INFO  - Test is executed in Environment: Local
+2020-10-01 14:55:55 INFO  - Test is started with browser: CHROMEHEADLESS
+2020-10-01 14:57:01 INFO  - Select value by text from the list : Bots - By.xpath: //span[contains(text(),'Bots')]
+2020-10-01 14:57:03 INFO  - Select value by text from the list : Bots - By.xpath: //span[contains(text(),'Bots')]
+2020-10-01 14:58:03 INFO  - Click : By.xpath: //button[contains(text(),'Add Bot')]
+2020-10-01 14:58:04 INFO  - Jira Bug tool is Disabled in Control sheet
+2020-10-01 14:58:04 INFO  - Jira tool is Disabled in Control sheet
+2020-10-01 14:58:07 INFO  - Closing Browsers
+2020-10-01 14:58:07 INFO  -  suite finished at Thu Oct 01 14:58:07 IST 2020
+2020-10-01 14:58:07 INFO  - 
+
++===========================================================================================================+
+2020-10-01 14:58:07 INFO  - Test process has ended
+2020-10-01 14:58:07 INFO  - Email Flag Set To: Y
+2020-10-01 15:06:00 INFO  - 
+
++===========================================================================================================+
+2020-10-01 15:06:00 INFO  -  Suite started at Thu Oct 01 15:06:00 IST 2020
+2020-10-01 15:06:00 INFO  - Suite Execution For Web application on environment : Local
+2020-10-01 15:06:00 INFO  - Suite Execution For Android mobile application on version: 7.1.1
+2020-10-01 15:06:00 INFO  - Suite Execution For RestAPI on URL: https://townsqd.com/api
+2020-10-01 15:06:00 INFO  - 
+
++===========================================================================================================+
+2020-10-01 15:06:07 INFO  - CHROMEHEADLESS : Browser Launched and Maximized.
+2020-10-01 15:06:09 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-01 15:06:09 INFO  - Test Started: Botup CallFlow Login Functionality
+2020-10-01 15:06:09 INFO  - Test is executed in Environment: Local
+2020-10-01 15:06:09 INFO  - Test is started with browser: CHROMEHEADLESS
+2020-10-01 15:06:11 INFO  - Navigate to: https://portal.500apps.io/#/login
+2020-10-01 15:06:22 INFO  - Input Text: stgcheck1@yopmail.com - By.name: email
+2020-10-01 15:06:23 INFO  - Input Text: stgcheck1 - By.name: password
+2020-10-01 15:06:28 INFO  - Click: By.xpath: //button[@type='submit']
+2020-10-01 15:06:52 INFO  - Select value by text from the list : Botup - By.xpath: //*[@class='border-0 card-body card-padding']/h5
+2020-10-01 15:06:55 INFO  - Select value by text from the list : Dashboard - By.xpath: //span[contains(text(),'Dashboard')]
+2020-10-01 15:06:55 INFO  - Test has ended closing browser: CHROMEHEADLESS
+2020-10-01 15:06:55 INFO  - Jira tool is Disabled in Control sheet
+2020-10-01 15:06:55 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-01 15:06:55 INFO  - Test Started: Botup bots Functionality
+2020-10-01 15:06:55 INFO  - Test is executed in Environment: Local
+2020-10-01 15:06:55 INFO  - Test is started with browser: CHROMEHEADLESS
+2020-10-01 15:08:02 INFO  - Select value by text from the list : Bots - By.xpath: //span[contains(text(),'Bots')]
+2020-10-01 15:08:04 INFO  - Select value by text from the list : Bots - By.xpath: //span[contains(text(),'Bots')]
+2020-10-01 15:09:04 INFO  - Click : By.xpath: //button[contains(text(),'Add Bot')]
+2020-10-01 15:09:05 INFO  - Jira Bug tool is Disabled in Control sheet
+2020-10-01 15:09:05 INFO  - Jira tool is Disabled in Control sheet
+2020-10-01 15:09:08 INFO  - Closing Browsers
+2020-10-01 15:09:08 INFO  -  suite finished at Thu Oct 01 15:09:08 IST 2020
+2020-10-01 15:09:08 INFO  - 
+
++===========================================================================================================+
+2020-10-01 15:09:09 INFO  - Test process has ended
+2020-10-01 15:09:09 INFO  - Email Flag Set To: Y
+2020-10-05 11:09:01 INFO  - 
+
++===========================================================================================================+
+2020-10-05 11:09:01 INFO  -  Suite started at Mon Oct 05 11:09:01 IST 2020
+2020-10-05 11:09:01 INFO  - Suite Execution For Web application on environment : Local
+2020-10-05 11:09:01 INFO  - Suite Execution For Android mobile application on version: 7.1.1
+2020-10-05 11:09:01 INFO  - Suite Execution For RestAPI on URL: https://townsqd.com/api
+2020-10-05 11:09:01 INFO  - 
+
++===========================================================================================================+
+2020-10-05 11:09:09 INFO  - CHROMEHEADLESS : Browser Launched and Maximized.
+2020-10-05 11:09:10 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-05 11:09:10 INFO  - Test Started: Botup CallFlow Login Functionality
+2020-10-05 11:09:10 INFO  - Test is executed in Environment: Local
+2020-10-05 11:09:10 INFO  - Test is started with browser: CHROMEHEADLESS
+2020-10-05 11:09:13 INFO  - Navigate to: https://portal.500apps.io/#/login
+2020-10-05 11:09:22 INFO  - Input Text: stgcheck1@yopmail.com - By.name: email
+2020-10-05 11:09:24 INFO  - Input Text: stgcheck1 - By.name: password
+2020-10-05 11:09:28 INFO  - Click: By.xpath: //button[@type='submit']
+2020-10-05 11:09:49 INFO  - Select value by text from the list : Botup - By.xpath: //*[@class='border-0 card-body card-padding']/h5
+2020-10-05 11:09:52 INFO  - Select value by text from the list : Dashboard - By.xpath: //span[contains(text(),'Dashboard')]
+2020-10-05 11:09:52 INFO  - Test has ended closing browser: CHROMEHEADLESS
+2020-10-05 11:09:52 INFO  - Jira tool is Disabled in Control sheet
+2020-10-05 11:09:52 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-05 11:09:52 INFO  - Test Started: Botup bots Functionality
+2020-10-05 11:09:52 INFO  - Test is executed in Environment: Local
+2020-10-05 11:09:52 INFO  - Test is started with browser: CHROMEHEADLESS
+2020-10-05 11:10:00 INFO  - Select value by text from the list : Bots - By.xpath: //span[contains(text(),'Bots')]
+2020-10-05 11:10:02 INFO  - Select value by text from the list : Bots - By.xpath: //span[contains(text(),'Bots')]
+2020-10-05 11:10:03 INFO  - Click : By.xpath: //button[contains(text(),'Add Bot')]
+2020-10-05 11:10:07 INFO  - Click: By.xpath: //span[contains(text(),'Please select an option')]
+2020-10-05 11:10:14 INFO  - Input Text: Test Bot - By.id: input_undefined
+2020-10-05 11:10:20 INFO  - Click: By.xpath: //*[ @data-vv-as='Category']/div/button
+2020-10-05 11:10:31 INFO  - Click: By.xpath: //button[@class='btn submit-button btn-primary']
+2020-10-05 11:10:41 INFO  - Click: By.xpath: //ul[contains(@class,'dropdown-menu dropdown-menu-right show')]//span[contains(text(),'Edit')]
+2020-10-05 11:10:50 INFO  - Click: By.xpath: //span[contains(text(),'Lead Generation Template')]
+2020-10-05 11:10:56 INFO  - Input Text: Test Another Bot - By.id: input_undefined
+2020-10-05 11:11:02 INFO  - Click: By.xpath: //*[ @data-vv-as='Category']/div/button
+2020-10-05 11:11:14 INFO  - Click: By.xpath: //button[@class='btn submit-button btn-primary']
+2020-10-05 11:11:25 INFO  - Click: By.xpath: //span[contains(text(),'Active')]
+2020-10-05 11:11:32 INFO  - Click: By.xpath: //span[contains(text(),'active')]
+2020-10-05 11:11:39 INFO  - Click: By.xpath: //button[@class='btn submit-button btn-primary']
+2020-10-05 11:11:50 INFO  - Click: By.xpath: //span[contains(text(),'Active')]
+2020-10-05 11:11:57 INFO  - Click: By.xpath: //span[contains(text(),'active')]
+2020-10-05 11:12:04 INFO  - Click: By.xpath: //button[@class='btn submit-button btn-primary']
+2020-10-05 11:12:15 INFO  - Click: By.xpath: //ul[contains(@class,'dropdown-menu dropdown-menu-right show')]//span[contains(text(),'Delete')]
+2020-10-05 11:12:22 INFO  - Click: By.xpath: //button[contains(@class,'btn btn-danger')]
+2020-10-05 11:12:23 INFO  - Test has ended closing browser: CHROMEHEADLESS
+2020-10-05 11:12:23 INFO  - Jira tool is Disabled in Control sheet
+2020-10-05 11:12:26 INFO  - Closing Browsers
+2020-10-05 11:12:26 INFO  -  suite finished at Mon Oct 05 11:12:26 IST 2020
+2020-10-05 11:12:26 INFO  - 
+
++===========================================================================================================+
+2020-10-05 11:12:26 INFO  - Test process has ended
+2020-10-05 11:12:26 INFO  - Email Flag Set To: Y
+2020-10-05 11:16:43 INFO  - 
+
++===========================================================================================================+
+2020-10-05 11:16:43 INFO  -  Suite started at Mon Oct 05 11:16:43 IST 2020
+2020-10-05 11:16:43 INFO  - Suite Execution For Web application on environment : Local
+2020-10-05 11:16:43 INFO  - Suite Execution For Android mobile application on version: 7.1.1
+2020-10-05 11:16:43 INFO  - Suite Execution For RestAPI on URL: https://townsqd.com/api
+2020-10-05 11:16:43 INFO  - 
+
++===========================================================================================================+
+2020-10-05 11:16:49 INFO  - CHROMEHEADLESS : Browser Launched and Maximized.
+2020-10-05 11:16:51 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-05 11:16:51 INFO  - Test Started: PBX Plus Login Functionality
+2020-10-05 11:16:51 INFO  - Test is executed in Environment: Local
+2020-10-05 11:16:51 INFO  - Test is started with browser: CHROMEHEADLESS
+2020-10-05 11:16:53 INFO  - Navigate to: https://portal.500apps.io
+2020-10-05 11:17:00 INFO  - Input Text: stgcheck1@yopmail.com - By.name: email
+2020-10-05 11:17:02 INFO  - Input Text: stgcheck1 - By.name: password
+2020-10-05 11:17:06 INFO  - Click: By.xpath: //button[@type='submit']
+2020-10-05 11:17:25 INFO  - Select value by text from the list : Pbxplus - By.xpath: //*[@class='border-0 card-body card-padding']/h5
+2020-10-05 11:17:28 INFO  - Select value by text from the list : Call Flows - By.xpath: //span[contains(text(),'Call Flows')]
+2020-10-05 11:17:29 INFO  - Test has ended closing browser: CHROMEHEADLESS
+2020-10-05 11:17:29 INFO  - Jira tool is Disabled in Control sheet
+2020-10-05 11:17:29 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-05 11:17:29 INFO  - Test Started: PBX Plus CallFlow Adding Functionality
+2020-10-05 11:17:29 INFO  - Test is executed in Environment: Local
+2020-10-05 11:17:29 INFO  - Test is started with browser: CHROMEHEADLESS
+2020-10-05 11:17:35 INFO  - Select value by text from the list : Call Flows - By.xpath: //span[contains(text(),'Call Flows')]
+2020-10-05 11:17:36 INFO  - Click : By.xpath: //button[contains(text(),'Add Call flow')]
+2020-10-05 11:17:38 INFO  - Input Text: PBXCallFlowQW5Z - By.xpath: //input[contains(@placeholder,'Enter Name')]
+2020-10-05 11:17:38 INFO  - Get Element text: By.xpath: //input[contains(@placeholder,'Enter Name')]
+2020-10-05 11:17:40 INFO  - Input Text: PBXCallDescriptionQW5Z - By.xpath: //input[contains(@placeholder,'Enter Description')]
+2020-10-05 11:17:44 INFO  - Click: By.xpath: //*[@class='nodetitle ui-draggable']/following::label[text()='Text To Speech']
+2020-10-05 11:17:47 INFO  - Input Text: Welcome To PBXplusQW5Z - By.xpath: //textarea[@name='tts']
+2020-10-05 11:17:54 INFO  - Click: By.xpath: //div[@class='ui-dialog-buttonset']/button
+2020-10-05 11:18:04 INFO  - Click: By.xpath: //*[@class='nodetitle ui-draggable']/following::label[text()='Play Audio']
+2020-10-05 11:18:08 INFO  - Select dropdown by text : Media1 - By.xpath: //*[@class='ui-dialog-content ui-widget-content']/form/fieldset/div[2]/div/div/select
+2020-10-05 11:19:13 INFO  - Click: By.xpath: //div[11]//div[1]//button[1]//span[2]
+2020-10-05 11:19:26 INFO  - Click: By.xpath: //*[@class='ui-widget' and text()='Business Hours']
+2020-10-05 11:19:29 INFO  - Input Text: 10:00 - By.xpath: //input[@name='From-Time']
+2020-10-05 11:19:31 INFO  - Input Text: 19:00 - By.xpath: //input[@name='To-Time']
+2020-10-05 11:19:35 INFO  - Click: By.xpath: //div[11]//div[1]//button[1]//span[2]
+2020-10-05 11:19:49 INFO  - Click: By.xpath: //*[@class='nodetitle ui-draggable']/following::label[text()='Voicemail']
+2020-10-05 11:19:53 INFO  - Select dropdown by text : Media1 - By.xpath: //div[@id='container0']//select[@id='Recorded']
+2020-10-05 11:20:56 INFO  - Input Text: Please Call in Working Hours - By.xpath: //textarea[@id='Voice-Mail']
+2020-10-05 11:21:00 INFO  - Click: By.xpath: //div[11]//div[1]//button[1]//span[2]
+2020-10-05 11:21:14 INFO  - Click: By.xpath: //*[@class='ui-widget' and text()='Menu']
+2020-10-05 11:21:18 INFO  - Select dropdown by text : Media1 - By.xpath: //select[@id='Recorded']
+2020-10-05 11:22:20 INFO  - Input Text: Please wait, We are connecting the Call - By.xpath: //input[@id='variable']
+2020-10-05 11:22:28 INFO  - Click: By.xpath: //button[@id='cases-add']//span[contains(text(),'Add')]
+2020-10-05 11:22:38 INFO  - Click: By.xpath: //button[@id='cases-add']//span[contains(text(),'Add')]
+2020-10-05 11:22:49 INFO  - Click: By.xpath: //div[11]//div[1]//button[1]//span[2]
+2020-10-05 11:23:05 INFO  - Click: By.xpath: //*[@class='nodetitle ui-draggable']/following::label[text()='Forward Call']
+2020-10-05 11:23:09 INFO  - Input Text: 9876543210 - By.xpath: //input[@id='fNumber']
+2020-10-05 11:23:13 INFO  - Click: By.xpath: //input[@name='Recording']
+2020-10-05 11:23:31 INFO  - Click: By.xpath: //button[@class='btn submit-button btn-primary']
+2020-10-05 11:23:34 INFO  - Get Element text: By.xpath: //*[@class='text-muted mb-0']
+2020-10-05 11:23:36 INFO  - Test has ended closing browser: CHROMEHEADLESS
+2020-10-05 11:23:36 INFO  - Jira tool is Disabled in Control sheet
+2020-10-05 11:23:39 INFO  - Closing Browsers
+2020-10-05 11:23:39 INFO  -  suite finished at Mon Oct 05 11:23:39 IST 2020
+2020-10-05 11:23:39 INFO  - 
+
++===========================================================================================================+
+2020-10-05 11:23:39 INFO  - Test process has ended
+2020-10-05 11:23:39 INFO  - Email Flag Set To: Y
+2020-10-05 14:58:04 INFO  - 
+
++===========================================================================================================+
+2020-10-05 14:58:04 INFO  -  Suite started at Mon Oct 05 14:58:04 IST 2020
+2020-10-05 14:58:04 INFO  - Suite Execution For Web application on environment : Local
+2020-10-05 14:58:04 INFO  - Suite Execution For Android mobile application on version: 7.1.1
+2020-10-05 14:58:04 INFO  - Suite Execution For RestAPI on URL: https://townsqd.com/api
+2020-10-05 14:58:04 INFO  - 
+
++===========================================================================================================+
+2020-10-05 14:58:11 INFO  - CHROMEHEADLESS : Browser Launched and Maximized.
+2020-10-05 14:58:12 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-05 14:58:12 INFO  - Test Started: PBX Plus Login Functionality
+2020-10-05 14:58:12 INFO  - Test is executed in Environment: Local
+2020-10-05 14:58:12 INFO  - Test is started with browser: CHROMEHEADLESS
+2020-10-05 14:58:15 INFO  - Navigate to: https://portal.500apps.io
+2020-10-05 14:58:24 INFO  - Input Text: stgcheck1@yopmail.com - By.name: email
+2020-10-05 14:58:26 INFO  - Input Text: stgcheck1 - By.name: password
+2020-10-05 14:58:30 INFO  - Click: By.xpath: //button[@type='submit']
+2020-10-05 14:58:52 INFO  - Select value by text from the list : Pbxplus - By.xpath: //*[@class='border-0 card-body card-padding']/h5
+2020-10-05 14:58:55 INFO  - Select value by text from the list : Call Flows - By.xpath: //span[contains(text(),'Call Flows')]
+2020-10-05 14:58:55 INFO  - Test has ended closing browser: CHROMEHEADLESS
+2020-10-05 14:58:55 INFO  - Jira tool is Disabled in Control sheet
+2020-10-05 14:58:55 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-05 14:58:55 INFO  - Test Started: PBX Plus CallFlow Adding Functionality
+2020-10-05 14:58:55 INFO  - Test is executed in Environment: Local
+2020-10-05 14:58:55 INFO  - Test is started with browser: CHROMEHEADLESS
+2020-10-05 14:59:01 INFO  - Select value by text from the list : Call Flows - By.xpath: //span[contains(text(),'Call Flows')]
+2020-10-05 14:59:02 INFO  - Click : By.xpath: //button[contains(text(),'Add Call flow')]
+2020-10-05 14:59:04 INFO  - Input Text: PBXCallFlowM1JM - By.xpath: //input[contains(@placeholder,'Enter Name')]
+2020-10-05 14:59:04 INFO  - Get Element text: By.xpath: //input[contains(@placeholder,'Enter Name')]
+2020-10-05 14:59:06 INFO  - Input Text: PBXCallDescriptionM1JM - By.xpath: //input[contains(@placeholder,'Enter Description')]
+2020-10-05 14:59:11 INFO  - Click: By.xpath: //*[@class='nodetitle ui-draggable']/following::label[text()='Text To Speech']
+2020-10-05 14:59:14 INFO  - Input Text: Welcome To PBXplusM1JM - By.xpath: //textarea[@name='tts']
+2020-10-05 15:00:13 INFO  - 
+
++===========================================================================================================+
+2020-10-05 15:00:13 INFO  -  Suite started at Mon Oct 05 15:00:13 IST 2020
+2020-10-05 15:00:13 INFO  - Suite Execution For Web application on environment : Local
+2020-10-05 15:00:13 INFO  - Suite Execution For Android mobile application on version: 7.1.1
+2020-10-05 15:00:13 INFO  - Suite Execution For RestAPI on URL: https://townsqd.com/api
+2020-10-05 15:00:13 INFO  - 
+
++===========================================================================================================+
+2020-10-05 15:00:19 INFO  - CHROME : Browser Launched and Maximized.
+2020-10-05 15:00:20 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-05 15:00:20 INFO  - Test Started: PBX Plus Login Functionality
+2020-10-05 15:00:20 INFO  - Test is executed in Environment: Local
+2020-10-05 15:00:20 INFO  - Test is started with browser: CHROME
+2020-10-05 15:00:23 INFO  - Navigate to: https://portal.500apps.io
+2020-10-05 15:00:31 INFO  - Input Text: stgcheck1@yopmail.com - By.name: email
+2020-10-05 15:00:33 INFO  - Input Text: stgcheck1 - By.name: password
+2020-10-05 15:00:37 INFO  - Click: By.xpath: //button[@type='submit']
+2020-10-05 15:01:06 INFO  - Select value by text from the list : Pbxplus - By.xpath: //*[@class='border-0 card-body card-padding']/h5
+2020-10-05 15:01:09 INFO  - Select value by text from the list : Call Flows - By.xpath: //span[contains(text(),'Call Flows')]
+2020-10-05 15:01:09 INFO  - Test has ended closing browser: CHROME
+2020-10-05 15:01:09 INFO  - Jira tool is Disabled in Control sheet
+2020-10-05 15:01:09 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-05 15:01:09 INFO  - Test Started: PBX Plus CallFlow Adding Functionality
+2020-10-05 15:01:09 INFO  - Test is executed in Environment: Local
+2020-10-05 15:01:09 INFO  - Test is started with browser: CHROME
+2020-10-05 15:01:15 INFO  - Select value by text from the list : Call Flows - By.xpath: //span[contains(text(),'Call Flows')]
+2020-10-05 15:01:16 INFO  - Click : By.xpath: //button[contains(text(),'Add Call flow')]
+2020-10-05 15:01:18 INFO  - Input Text: PBXCallFlowVCZT - By.xpath: //input[contains(@placeholder,'Enter Name')]
+2020-10-05 15:01:18 INFO  - Get Element text: By.xpath: //input[contains(@placeholder,'Enter Name')]
+2020-10-05 15:01:20 INFO  - Input Text: PBXCallDescriptionVCZT - By.xpath: //input[contains(@placeholder,'Enter Description')]
+2020-10-05 15:01:24 INFO  - Click: By.xpath: //*[@class='nodetitle ui-draggable']/following::label[text()='Text To Speech']
+2020-10-05 15:01:27 INFO  - Input Text: Welcome To PBXplusVCZT - By.xpath: //textarea[@name='tts']
+2020-10-05 15:03:26 INFO  - 
+
++===========================================================================================================+
+2020-10-05 15:03:26 INFO  -  Suite started at Mon Oct 05 15:03:26 IST 2020
+2020-10-05 15:03:26 INFO  - Suite Execution For Web application on environment : Local
+2020-10-05 15:03:26 INFO  - Suite Execution For Android mobile application on version: 7.1.1
+2020-10-05 15:03:26 INFO  - Suite Execution For RestAPI on URL: https://townsqd.com/api
+2020-10-05 15:03:26 INFO  - 
+
++===========================================================================================================+
+2020-10-05 15:03:33 INFO  - CHROME : Browser Launched and Maximized.
+2020-10-05 15:03:34 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-05 15:03:34 INFO  - Test Started: Botup CallFlow Login Functionality
+2020-10-05 15:03:34 INFO  - Test is executed in Environment: Local
+2020-10-05 15:03:34 INFO  - Test is started with browser: CHROME
+2020-10-05 15:03:37 INFO  - Navigate to: https://portal.500apps.io/#/login
+2020-10-05 15:03:47 INFO  - Input Text: stgcheck1@yopmail.com - By.name: email
+2020-10-05 15:03:49 INFO  - Input Text: stgcheck1 - By.name: password
+2020-10-05 15:03:53 INFO  - Click: By.xpath: //button[@type='submit']
+2020-10-05 15:04:16 INFO  - Select value by text from the list : Botup - By.xpath: //*[@class='border-0 card-body card-padding']/h5
+2020-10-05 15:04:18 INFO  - Select value by text from the list : Dashboard - By.xpath: //span[contains(text(),'Dashboard')]
+2020-10-05 15:04:19 INFO  - Test has ended closing browser: CHROME
+2020-10-05 15:04:19 INFO  - Jira tool is Disabled in Control sheet
+2020-10-05 15:04:19 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-05 15:04:19 INFO  - Test Started: Botup Adding Integration Functionality
+2020-10-05 15:04:19 INFO  - Test is executed in Environment: Local
+2020-10-05 15:04:19 INFO  - Test is started with browser: CHROME
+2020-10-05 15:04:24 INFO  - Select value by text from the list : Integrations - By.xpath: //span[contains(text(),'Integrations')]
+2020-10-05 15:05:26 INFO  - Get Element text: By.xpath: //button[contains(text(),'Install')]
+2020-10-05 15:05:27 INFO  - Jira Bug tool is Disabled in Control sheet
+2020-10-05 15:05:27 INFO  - Jira tool is Disabled in Control sheet
+2020-10-05 15:05:27 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-05 15:05:27 INFO  - Test Started: mailsend Login Functionality
+2020-10-05 15:05:27 INFO  - Test is executed in Environment: Local
+2020-10-05 15:05:27 INFO  - Test is started with browser: CHROME
+2020-10-05 15:05:32 INFO  - Navigate to: https://portal.500apps.io/#/login
+2020-10-05 15:06:35 INFO  - Input Text: stgcheck1@yopmail.com - By.name: email
+2020-10-05 15:07:18 INFO  - 
+
++===========================================================================================================+
+2020-10-05 15:07:18 INFO  -  Suite started at Mon Oct 05 15:07:18 IST 2020
+2020-10-05 15:07:18 INFO  - Suite Execution For Web application on environment : Local
+2020-10-05 15:07:18 INFO  - Suite Execution For Android mobile application on version: 7.1.1
+2020-10-05 15:07:18 INFO  - Suite Execution For RestAPI on URL: https://townsqd.com/api
+2020-10-05 15:07:18 INFO  - 
+
++===========================================================================================================+
+2020-10-05 15:07:26 INFO  - CHROME : Browser Launched and Maximized.
+2020-10-05 15:07:27 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-05 15:07:27 INFO  - Test Started: Botup CallFlow Login Functionality
+2020-10-05 15:07:27 INFO  - Test is executed in Environment: Local
+2020-10-05 15:07:27 INFO  - Test is started with browser: CHROME
+2020-10-05 15:07:29 INFO  - Navigate to: https://portal.500apps.io/#/login
+2020-10-05 15:07:37 INFO  - Input Text: stgcheck1@yopmail.com - By.name: email
+2020-10-05 15:07:38 INFO  - Input Text: stgcheck1 - By.name: password
+2020-10-05 15:07:43 INFO  - Click: By.xpath: //button[@type='submit']
+2020-10-05 15:08:03 INFO  - Select value by text from the list : Botup - By.xpath: //*[@class='border-0 card-body card-padding']/h5
+2020-10-05 15:08:06 INFO  - Select value by text from the list : Dashboard - By.xpath: //span[contains(text(),'Dashboard')]
+2020-10-05 15:08:06 INFO  - Test has ended closing browser: CHROME
+2020-10-05 15:08:06 INFO  - Jira tool is Disabled in Control sheet
+2020-10-05 15:08:06 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-05 15:08:06 INFO  - Test Started: Botup Adding Integration Functionality
+2020-10-05 15:08:06 INFO  - Test is executed in Environment: Local
+2020-10-05 15:08:06 INFO  - Test is started with browser: CHROME
+2020-10-05 15:08:12 INFO  - Select value by text from the list : Integrations - By.xpath: //span[contains(text(),'Integrations')]
+2020-10-05 15:09:15 INFO  - Get Element text: By.xpath: //button[contains(text(),'Install')]
+2020-10-05 15:09:16 INFO  - Jira Bug tool is Disabled in Control sheet
+2020-10-05 15:09:16 INFO  - Jira tool is Disabled in Control sheet
+2020-10-05 15:09:16 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-05 15:09:16 INFO  - Test Started: mailsend Login Functionality
+2020-10-05 15:09:16 INFO  - Test is executed in Environment: Local
+2020-10-05 15:09:16 INFO  - Test is started with browser: CHROME
+2020-10-05 15:09:20 INFO  - Navigate to: https://portal.500apps.io/#/login
+2020-10-05 15:11:32 INFO  - 
+
++===========================================================================================================+
+2020-10-05 15:11:32 INFO  -  Suite started at Mon Oct 05 15:11:32 IST 2020
+2020-10-05 15:11:32 INFO  - Suite Execution For Web application on environment : Local
+2020-10-05 15:11:32 INFO  - Suite Execution For Android mobile application on version: 7.1.1
+2020-10-05 15:11:32 INFO  - Suite Execution For RestAPI on URL: https://townsqd.com/api
+2020-10-05 15:11:32 INFO  - 
+
++===========================================================================================================+
+2020-10-05 15:11:39 INFO  - CHROME : Browser Launched and Maximized.
+2020-10-05 15:11:40 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-05 15:11:40 INFO  - Test Started: Botup CallFlow Login Functionality
+2020-10-05 15:11:40 INFO  - Test is executed in Environment: Local
+2020-10-05 15:11:40 INFO  - Test is started with browser: CHROME
+2020-10-05 15:11:43 INFO  - Navigate to: https://portal.500apps.io/#/login
+2020-10-05 15:11:51 INFO  - Input Text: stgcheck1@yopmail.com - By.name: email
+2020-10-05 15:11:53 INFO  - Input Text: stgcheck1 - By.name: password
+2020-10-05 15:11:57 INFO  - Click: By.xpath: //button[@type='submit']
+2020-10-05 15:12:14 INFO  - Select value by text from the list : Botup - By.xpath: //*[@class='border-0 card-body card-padding']/h5
+2020-10-05 15:12:17 INFO  - Select value by text from the list : Dashboard - By.xpath: //span[contains(text(),'Dashboard')]
+2020-10-05 15:12:17 INFO  - Test has ended closing browser: CHROME
+2020-10-05 15:12:17 INFO  - Jira tool is Disabled in Control sheet
+2020-10-05 15:12:17 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-05 15:12:17 INFO  - Test Started: Botup Adding Integration Functionality
+2020-10-05 15:12:17 INFO  - Test is executed in Environment: Local
+2020-10-05 15:12:17 INFO  - Test is started with browser: CHROME
+2020-10-05 15:12:22 INFO  - Select value by text from the list : Integrations - By.xpath: //span[contains(text(),'Integrations')]
+2020-10-05 15:29:46 INFO  - 
+
++===========================================================================================================+
+2020-10-05 15:29:46 INFO  -  Suite started at Mon Oct 05 15:29:46 IST 2020
+2020-10-05 15:29:46 INFO  - Suite Execution For Web application on environment : Local
+2020-10-05 15:29:46 INFO  - Suite Execution For Android mobile application on version: 7.1.1
+2020-10-05 15:29:46 INFO  - Suite Execution For RestAPI on URL: https://townsqd.com/api
+2020-10-05 15:29:46 INFO  - 
+
++===========================================================================================================+
+2020-10-05 15:29:53 INFO  - CHROME : Browser Launched and Maximized.
+2020-10-05 15:29:54 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-05 15:29:54 INFO  - Test Started: Botup CallFlow Login Functionality
+2020-10-05 15:29:54 INFO  - Test is executed in Environment: Local
+2020-10-05 15:29:54 INFO  - Test is started with browser: CHROME
+2020-10-05 15:29:56 INFO  - Navigate to: https://portal.500apps.io/#/login
+2020-10-05 15:30:03 INFO  - Input Text: stgcheck1@yopmail.com - By.name: email
+2020-10-05 15:30:05 INFO  - Input Text: stgcheck1 - By.name: password
+2020-10-05 15:30:09 INFO  - Click: By.xpath: //button[@type='submit']
+2020-10-05 15:30:35 INFO  - Select value by text from the list : Botup - By.xpath: //*[@class='border-0 card-body card-padding']/h5
+2020-10-05 15:30:38 INFO  - Select value by text from the list : Dashboard - By.xpath: //span[contains(text(),'Dashboard')]
+2020-10-05 15:30:38 INFO  - Test has ended closing browser: CHROME
+2020-10-05 15:30:38 INFO  - Jira tool is Disabled in Control sheet
+2020-10-05 15:30:38 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-05 15:30:38 INFO  - Test Started: Botup Adding Integration Functionality
+2020-10-05 15:30:38 INFO  - Test is executed in Environment: Local
+2020-10-05 15:30:38 INFO  - Test is started with browser: CHROME
+2020-10-05 15:30:43 INFO  - Select value by text from the list : Integrations - By.xpath: //span[contains(text(),'Integrations')]
+2020-10-05 15:31:48 INFO  - 
+
++===========================================================================================================+
+2020-10-05 15:31:48 INFO  -  Suite started at Mon Oct 05 15:31:48 IST 2020
+2020-10-05 15:31:48 INFO  - Suite Execution For Web application on environment : Local
+2020-10-05 15:31:48 INFO  - Suite Execution For Android mobile application on version: 7.1.1
+2020-10-05 15:31:48 INFO  - Suite Execution For RestAPI on URL: https://townsqd.com/api
+2020-10-05 15:31:48 INFO  - 
+
++===========================================================================================================+
+2020-10-05 15:31:55 INFO  - CHROME : Browser Launched and Maximized.
+2020-10-05 15:31:56 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-05 15:31:56 INFO  - Test Started: Botup CallFlow Login Functionality
+2020-10-05 15:31:56 INFO  - Test is executed in Environment: Local
+2020-10-05 15:31:56 INFO  - Test is started with browser: CHROME
+2020-10-05 15:31:59 INFO  - Navigate to: https://portal.500apps.io/#/login
+2020-10-05 15:32:05 INFO  - Input Text: stgcheck1@yopmail.com - By.name: email
+2020-10-05 15:32:07 INFO  - Input Text: stgcheck1 - By.name: password
+2020-10-05 15:32:11 INFO  - Click: By.xpath: //button[@type='submit']
+2020-10-05 15:32:41 INFO  - Select value by text from the list : Botup - By.xpath: //*[@class='border-0 card-body card-padding']/h5
+2020-10-05 15:32:50 INFO  - Select value by text from the list : Dashboard - By.xpath: //span[contains(text(),'Dashboard')]
+2020-10-05 15:32:50 INFO  - Test has ended closing browser: CHROME
+2020-10-05 15:32:50 INFO  - Jira tool is Disabled in Control sheet
+2020-10-05 15:32:50 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-05 15:32:50 INFO  - Test Started: Botup Adding Integration Functionality
+2020-10-05 15:32:50 INFO  - Test is executed in Environment: Local
+2020-10-05 15:32:50 INFO  - Test is started with browser: CHROME
+2020-10-05 15:32:55 INFO  - Select value by text from the list : Integrations - By.xpath: //span[contains(text(),'Integrations')]
+2020-10-05 15:33:57 INFO  - Get Element text: By.xpath: //button[contains(text(),'Install')]
+2020-10-05 15:33:58 INFO  - Jira Bug tool is Disabled in Control sheet
+2020-10-05 15:33:58 INFO  - Jira tool is Disabled in Control sheet
+2020-10-05 15:33:58 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-05 15:33:58 INFO  - Test Started: mailsend Login Functionality
+2020-10-05 15:33:58 INFO  - Test is executed in Environment: Local
+2020-10-05 15:33:58 INFO  - Test is started with browser: CHROME
+2020-10-05 15:34:03 INFO  - Navigate to: https://portal.500apps.io/#/login
+2020-10-05 15:36:22 INFO  - 
+
++===========================================================================================================+
+2020-10-05 15:36:22 INFO  -  Suite started at Mon Oct 05 15:36:22 IST 2020
+2020-10-05 15:36:22 INFO  - Suite Execution For Web application on environment : Local
+2020-10-05 15:36:22 INFO  - Suite Execution For Android mobile application on version: 7.1.1
+2020-10-05 15:36:22 INFO  - Suite Execution For RestAPI on URL: https://townsqd.com/api
+2020-10-05 15:36:22 INFO  - 
+
++===========================================================================================================+
+2020-10-05 15:36:29 INFO  - CHROME : Browser Launched and Maximized.
+2020-10-05 15:36:30 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-05 15:36:30 INFO  - Test Started: Botup CallFlow Login Functionality
+2020-10-05 15:36:30 INFO  - Test is executed in Environment: Local
+2020-10-05 15:36:30 INFO  - Test is started with browser: CHROME
+2020-10-05 15:36:33 INFO  - Navigate to: https://portal.500apps.io/#/login
+2020-10-05 15:36:39 INFO  - Input Text: stgcheck1@yopmail.com - By.name: email
+2020-10-05 15:36:41 INFO  - Input Text: stgcheck1 - By.name: password
+2020-10-05 15:36:46 INFO  - Click: By.xpath: //button[@type='submit']
+2020-10-05 15:37:07 INFO  - Select value by text from the list : Botup - By.xpath: //*[@class='border-0 card-body card-padding']/h5
+2020-10-05 15:37:10 INFO  - Select value by text from the list : Dashboard - By.xpath: //span[contains(text(),'Dashboard')]
+2020-10-05 15:37:10 INFO  - Test has ended closing browser: CHROME
+2020-10-05 15:37:10 INFO  - Jira tool is Disabled in Control sheet
+2020-10-05 15:37:10 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-05 15:37:10 INFO  - Test Started: Botup Adding Integration Functionality
+2020-10-05 15:37:10 INFO  - Test is executed in Environment: Local
+2020-10-05 15:37:10 INFO  - Test is started with browser: CHROME
+2020-10-05 15:38:16 INFO  - Jira Bug tool is Disabled in Control sheet
+2020-10-05 15:38:16 INFO  - Jira tool is Disabled in Control sheet
+2020-10-05 15:38:16 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-05 15:38:16 INFO  - Test Started: mailsend Login Functionality
+2020-10-05 15:38:16 INFO  - Test is executed in Environment: Local
+2020-10-05 15:38:16 INFO  - Test is started with browser: CHROME
+2020-10-05 15:38:20 INFO  - Navigate to: https://portal.500apps.io/#/login
+2020-10-05 15:39:23 INFO  - Input Text: stgcheck1@yopmail.com - By.name: email
+2020-10-05 15:40:43 INFO  - 
+
++===========================================================================================================+
+2020-10-05 15:40:43 INFO  -  Suite started at Mon Oct 05 15:40:43 IST 2020
+2020-10-05 15:40:43 INFO  - Suite Execution For Web application on environment : Local
+2020-10-05 15:40:43 INFO  - Suite Execution For Android mobile application on version: 7.1.1
+2020-10-05 15:40:43 INFO  - Suite Execution For RestAPI on URL: https://townsqd.com/api
+2020-10-05 15:40:43 INFO  - 
+
++===========================================================================================================+
+2020-10-05 15:40:50 INFO  - CHROME : Browser Launched and Maximized.
+2020-10-05 15:40:52 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-05 15:40:52 INFO  - Test Started: Botup CallFlow Login Functionality
+2020-10-05 15:40:52 INFO  - Test is executed in Environment: Local
+2020-10-05 15:40:52 INFO  - Test is started with browser: CHROME
+2020-10-05 15:40:54 INFO  - Navigate to: https://portal.500apps.io/#/login
+2020-10-05 15:41:02 INFO  - Input Text: stgcheck1@yopmail.com - By.name: email
+2020-10-05 15:41:04 INFO  - Input Text: stgcheck1 - By.name: password
+2020-10-05 15:41:08 INFO  - Click: By.xpath: //button[@type='submit']
+2020-10-05 15:41:35 INFO  - Select value by text from the list : Botup - By.xpath: //*[@class='border-0 card-body card-padding']/h5
+2020-10-05 15:41:38 INFO  - Select value by text from the list : Dashboard - By.xpath: //span[contains(text(),'Dashboard')]
+2020-10-05 15:41:39 INFO  - Test has ended closing browser: CHROME
+2020-10-05 15:41:39 INFO  - Jira tool is Disabled in Control sheet
+2020-10-05 15:41:39 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-05 15:41:39 INFO  - Test Started: Botup Adding Integration Functionality
+2020-10-05 15:41:39 INFO  - Test is executed in Environment: Local
+2020-10-05 15:41:39 INFO  - Test is started with browser: CHROME
+2020-10-05 15:41:44 INFO  - Select value by text from the list : Integrations - By.xpath: //span[contains(text(),'Integrations')]
+2020-10-05 15:42:47 INFO  - Get Element text: By.xpath: //button[contains(text(),'Install')]
+2020-10-05 15:42:47 INFO  - Jira Bug tool is Disabled in Control sheet
+2020-10-05 15:42:47 INFO  - Jira tool is Disabled in Control sheet
+2020-10-05 15:42:47 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-05 15:42:47 INFO  - Test Started: mailsend Login Functionality
+2020-10-05 15:42:47 INFO  - Test is executed in Environment: Local
+2020-10-05 15:42:47 INFO  - Test is started with browser: CHROME
+2020-10-05 15:42:52 INFO  - Navigate to: https://portal.500apps.io/#/login
+2020-10-05 15:45:28 INFO  - 
+
++===========================================================================================================+
+2020-10-05 15:45:28 INFO  -  Suite started at Mon Oct 05 15:45:28 IST 2020
+2020-10-05 15:45:28 INFO  - Suite Execution For Web application on environment : Local
+2020-10-05 15:45:28 INFO  - Suite Execution For Android mobile application on version: 7.1.1
+2020-10-05 15:45:28 INFO  - Suite Execution For RestAPI on URL: https://townsqd.com/api
+2020-10-05 15:45:28 INFO  - 
+
++===========================================================================================================+
+2020-10-05 15:45:35 INFO  - CHROME : Browser Launched and Maximized.
+2020-10-05 15:45:36 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-05 15:45:36 INFO  - Test Started: Botup CallFlow Login Functionality
+2020-10-05 15:45:36 INFO  - Test is executed in Environment: Local
+2020-10-05 15:45:36 INFO  - Test is started with browser: CHROME
+2020-10-05 15:45:38 INFO  - Navigate to: https://portal.500apps.io/#/login
+2020-10-05 15:45:48 INFO  - Input Text: stgcheck1@yopmail.com - By.name: email
+2020-10-05 15:45:50 INFO  - Input Text: stgcheck1 - By.name: password
+2020-10-05 15:45:54 INFO  - Click: By.xpath: //button[@type='submit']
+2020-10-05 15:46:15 INFO  - Select value by text from the list : Botup - By.xpath: //*[@class='border-0 card-body card-padding']/h5
+2020-10-05 15:46:20 INFO  - Select value by text from the list : Dashboard - By.xpath: //span[contains(text(),'Dashboard')]
+2020-10-05 15:46:23 INFO  - Test has ended closing browser: CHROME
+2020-10-05 15:46:23 INFO  - Jira tool is Disabled in Control sheet
+2020-10-05 15:46:23 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-05 15:46:23 INFO  - Test Started: Botup Adding Integration Functionality
+2020-10-05 15:46:23 INFO  - Test is executed in Environment: Local
+2020-10-05 15:46:23 INFO  - Test is started with browser: CHROME
+2020-10-05 15:46:28 INFO  - Select value by text from the list : Integrations - By.xpath: //span[contains(text(),'Integrations')]
+2020-10-05 15:47:35 INFO  - Get Element text: By.xpath: //button[contains(text(),'Install')]
+2020-10-05 15:47:36 INFO  - Jira Bug tool is Disabled in Control sheet
+2020-10-05 15:47:36 INFO  - Jira tool is Disabled in Control sheet
+2020-10-05 15:47:36 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-05 15:47:36 INFO  - Test Started: mailsend Login Functionality
+2020-10-05 15:47:36 INFO  - Test is executed in Environment: Local
+2020-10-05 15:47:36 INFO  - Test is started with browser: CHROME
+2020-10-05 15:47:41 INFO  - Navigate to: https://portal.500apps.io/#/login
+2020-10-05 15:48:14 INFO  - 
+
++===========================================================================================================+
+2020-10-05 15:48:14 INFO  -  Suite started at Mon Oct 05 15:48:14 IST 2020
+2020-10-05 15:48:14 INFO  - Suite Execution For Web application on environment : Local
+2020-10-05 15:48:14 INFO  - Suite Execution For Android mobile application on version: 7.1.1
+2020-10-05 15:48:14 INFO  - Suite Execution For RestAPI on URL: https://townsqd.com/api
+2020-10-05 15:48:14 INFO  - 
+
++===========================================================================================================+
+2020-10-05 15:48:21 INFO  - CHROME : Browser Launched and Maximized.
+2020-10-05 15:48:22 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-05 15:48:22 INFO  - Test Started: Botup CallFlow Login Functionality
+2020-10-05 15:48:22 INFO  - Test is executed in Environment: Local
+2020-10-05 15:48:22 INFO  - Test is started with browser: CHROME
+2020-10-05 15:48:24 INFO  - Navigate to: https://portal.500apps.io/#/login
+2020-10-05 15:48:33 INFO  - Input Text: stgcheck1@yopmail.com - By.name: email
+2020-10-05 15:48:35 INFO  - Input Text: stgcheck1 - By.name: password
+2020-10-05 15:48:39 INFO  - Click: By.xpath: //button[@type='submit']
+2020-10-05 15:48:58 INFO  - Select value by text from the list : Botup - By.xpath: //*[@class='border-0 card-body card-padding']/h5
+2020-10-05 15:49:03 INFO  - Select value by text from the list : Dashboard - By.xpath: //span[contains(text(),'Dashboard')]
+2020-10-05 15:49:05 INFO  - Test has ended closing browser: CHROME
+2020-10-05 15:49:05 INFO  - Jira tool is Disabled in Control sheet
+2020-10-05 15:49:05 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-05 15:49:05 INFO  - Test Started: Botup Adding Integration Functionality
+2020-10-05 15:49:05 INFO  - Test is executed in Environment: Local
+2020-10-05 15:49:05 INFO  - Test is started with browser: CHROME
+2020-10-05 15:49:11 INFO  - Select value by text from the list : Integrations - By.xpath: //span[contains(text(),'Integrations')]
+2020-10-05 15:49:17 INFO  - Get Element text: By.xpath: //*[@class='mb-0 mt-3 text-capitalize text-truncate' and text()=' twilio ']/following::button[text()=' Disable ']
+2020-10-05 15:49:19 INFO  - Click: By.xpath: //*[@class='mb-0 mt-3 text-capitalize text-truncate' and text()=' twilio ']/following::button[text()=' Disable ']
+2020-10-05 15:56:50 INFO  - 
+
++===========================================================================================================+
+2020-10-05 15:56:50 INFO  -  Suite started at Mon Oct 05 15:56:50 IST 2020
+2020-10-05 15:56:50 INFO  - Suite Execution For Web application on environment : Local
+2020-10-05 15:56:50 INFO  - Suite Execution For Android mobile application on version: 7.1.1
+2020-10-05 15:56:50 INFO  - Suite Execution For RestAPI on URL: https://townsqd.com/api
+2020-10-05 15:56:50 INFO  - 
+
++===========================================================================================================+
+2020-10-05 15:56:56 INFO  - CHROME : Browser Launched and Maximized.
+2020-10-05 15:56:58 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-05 15:56:58 INFO  - Test Started: Botup CallFlow Login Functionality
+2020-10-05 15:56:58 INFO  - Test is executed in Environment: Local
+2020-10-05 15:56:58 INFO  - Test is started with browser: CHROME
+2020-10-05 15:57:00 INFO  - Navigate to: https://portal.500apps.io/#/login
+2020-10-05 15:57:08 INFO  - Input Text: stgcheck1@yopmail.com - By.name: email
+2020-10-05 15:57:10 INFO  - Input Text: stgcheck1 - By.name: password
+2020-10-05 15:57:14 INFO  - Click: By.xpath: //button[@type='submit']
+2020-10-05 15:57:35 INFO  - Select value by text from the list : Botup - By.xpath: //*[@class='border-0 card-body card-padding']/h5
+2020-10-05 15:57:40 INFO  - Select value by text from the list : Dashboard - By.xpath: //span[contains(text(),'Dashboard')]
+2020-10-05 15:57:42 INFO  - Test has ended closing browser: CHROME
+2020-10-05 15:57:42 INFO  - Jira tool is Disabled in Control sheet
+2020-10-05 15:57:42 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-05 15:57:42 INFO  - Test Started: Botup Adding Integration Functionality
+2020-10-05 15:57:42 INFO  - Test is executed in Environment: Local
+2020-10-05 15:57:42 INFO  - Test is started with browser: CHROME
+2020-10-05 15:57:47 INFO  - Select value by text from the list : Integrations - By.xpath: //span[contains(text(),'Integrations')]
+2020-10-05 15:58:54 INFO  - Get Element text: By.xpath: //*[@class='mb-0 mt-3 text-capitalize text-truncate' and text()=' twilio ']/following::button[text()=' Disable ']
+2020-10-05 15:58:55 INFO  - Jira Bug tool is Disabled in Control sheet
+2020-10-05 15:58:55 INFO  - Jira tool is Disabled in Control sheet
+2020-10-05 15:58:55 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-05 15:58:55 INFO  - Test Started: mailsend Login Functionality
+2020-10-05 15:58:55 INFO  - Test is executed in Environment: Local
+2020-10-05 15:58:55 INFO  - Test is started with browser: CHROME
+2020-10-05 15:58:59 INFO  - Navigate to: https://portal.500apps.io/#/login
+2020-10-05 16:00:07 INFO  - 
+
++===========================================================================================================+
+2020-10-05 16:00:07 INFO  -  Suite started at Mon Oct 05 16:00:07 IST 2020
+2020-10-05 16:00:07 INFO  - Suite Execution For Web application on environment : Local
+2020-10-05 16:00:07 INFO  - Suite Execution For Android mobile application on version: 7.1.1
+2020-10-05 16:00:07 INFO  - Suite Execution For RestAPI on URL: https://townsqd.com/api
+2020-10-05 16:00:07 INFO  - 
+
++===========================================================================================================+
+2020-10-05 16:00:14 INFO  - CHROME : Browser Launched and Maximized.
+2020-10-05 16:00:15 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-05 16:00:15 INFO  - Test Started: Botup CallFlow Login Functionality
+2020-10-05 16:00:15 INFO  - Test is executed in Environment: Local
+2020-10-05 16:00:15 INFO  - Test is started with browser: CHROME
+2020-10-05 16:00:18 INFO  - Navigate to: https://portal.500apps.io/#/login
+2020-10-05 16:00:24 INFO  - Input Text: stgcheck1@yopmail.com - By.name: email
+2020-10-05 16:00:26 INFO  - Input Text: stgcheck1 - By.name: password
+2020-10-05 16:00:30 INFO  - Click: By.xpath: //button[@type='submit']
+2020-10-05 16:00:51 INFO  - Select value by text from the list : Botup - By.xpath: //*[@class='border-0 card-body card-padding']/h5
+2020-10-05 16:00:55 INFO  - Select value by text from the list : Dashboard - By.xpath: //span[contains(text(),'Dashboard')]
+2020-10-05 16:00:58 INFO  - Test has ended closing browser: CHROME
+2020-10-05 16:00:58 INFO  - Jira tool is Disabled in Control sheet
+2020-10-05 16:00:58 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-05 16:00:58 INFO  - Test Started: Botup Adding Integration Functionality
+2020-10-05 16:00:58 INFO  - Test is executed in Environment: Local
+2020-10-05 16:00:58 INFO  - Test is started with browser: CHROME
+2020-10-05 16:01:03 INFO  - Select value by text from the list : Integrations - By.xpath: //span[contains(text(),'Integrations')]
+2020-10-05 16:02:09 INFO  - Get Element text: By.xpath: //*[@class='mb-0 mt-3 text-capitalize text-truncate' and text()=' twilio ']/following::button[text()=' Disable ']
+2020-10-05 16:02:10 INFO  - Jira Bug tool is Disabled in Control sheet
+2020-10-05 16:02:10 INFO  - Jira tool is Disabled in Control sheet
+2020-10-05 16:02:10 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-05 16:02:10 INFO  - Test Started: mailsend Login Functionality
+2020-10-05 16:02:10 INFO  - Test is executed in Environment: Local
+2020-10-05 16:02:10 INFO  - Test is started with browser: CHROME
+2020-10-05 16:02:15 INFO  - Navigate to: https://portal.500apps.io/#/login
+2020-10-05 16:12:04 INFO  - 
+
++===========================================================================================================+
+2020-10-05 16:12:04 INFO  -  Suite started at Mon Oct 05 16:12:04 IST 2020
+2020-10-05 16:12:04 INFO  - Suite Execution For Web application on environment : Local
+2020-10-05 16:12:04 INFO  - Suite Execution For Android mobile application on version: 7.1.1
+2020-10-05 16:12:04 INFO  - Suite Execution For RestAPI on URL: https://townsqd.com/api
+2020-10-05 16:12:04 INFO  - 
+
++===========================================================================================================+
+2020-10-05 16:12:11 INFO  - CHROME : Browser Launched and Maximized.
+2020-10-05 16:12:13 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-05 16:12:13 INFO  - Test Started: Botup CallFlow Login Functionality
+2020-10-05 16:12:13 INFO  - Test is executed in Environment: Local
+2020-10-05 16:12:13 INFO  - Test is started with browser: CHROME
+2020-10-05 16:12:15 INFO  - Navigate to: https://portal.500apps.io/#/login
+2020-10-05 16:12:22 INFO  - Input Text: stgcheck1@yopmail.com - By.name: email
+2020-10-05 16:12:23 INFO  - Input Text: stgcheck1 - By.name: password
+2020-10-05 16:12:28 INFO  - Click: By.xpath: //button[@type='submit']
+2020-10-05 16:12:50 INFO  - Select value by text from the list : Botup - By.xpath: //*[@class='border-0 card-body card-padding']/h5
+2020-10-05 16:12:55 INFO  - Select value by text from the list : Dashboard - By.xpath: //span[contains(text(),'Dashboard')]
+2020-10-05 16:12:57 INFO  - Test has ended closing browser: CHROME
+2020-10-05 16:12:57 INFO  - Jira tool is Disabled in Control sheet
+2020-10-05 16:12:57 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-05 16:12:57 INFO  - Test Started: Botup Adding Integration Functionality
+2020-10-05 16:12:57 INFO  - Test is executed in Environment: Local
+2020-10-05 16:12:57 INFO  - Test is started with browser: CHROME
+2020-10-05 16:13:45 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-05 16:13:45 INFO  - Test Started: mailsend Login Functionality
+2020-10-05 16:13:45 INFO  - Test is executed in Environment: Local
+2020-10-05 16:13:45 INFO  - Test is started with browser: CHROME
+2020-10-05 16:14:11 INFO  - 
+
++===========================================================================================================+
+2020-10-05 16:14:11 INFO  -  Suite started at Mon Oct 05 16:14:11 IST 2020
+2020-10-05 16:14:11 INFO  - Suite Execution For Web application on environment : Local
+2020-10-05 16:14:11 INFO  - Suite Execution For Android mobile application on version: 7.1.1
+2020-10-05 16:14:11 INFO  - Suite Execution For RestAPI on URL: https://townsqd.com/api
+2020-10-05 16:14:11 INFO  - 
+
++===========================================================================================================+
+2020-10-05 16:14:17 INFO  - CHROME : Browser Launched and Maximized.
+2020-10-05 16:14:19 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-05 16:14:19 INFO  - Test Started: Botup CallFlow Login Functionality
+2020-10-05 16:14:19 INFO  - Test is executed in Environment: Local
+2020-10-05 16:14:19 INFO  - Test is started with browser: CHROME
+2020-10-05 16:14:21 INFO  - Navigate to: https://portal.500apps.io/#/login
+2020-10-05 16:14:27 INFO  - Input Text: stgcheck1@yopmail.com - By.name: email
+2020-10-05 16:14:29 INFO  - Input Text: stgcheck1 - By.name: password
+2020-10-05 16:14:34 INFO  - Click: By.xpath: //button[@type='submit']
+2020-10-05 16:14:54 INFO  - Select value by text from the list : Botup - By.xpath: //*[@class='border-0 card-body card-padding']/h5
+2020-10-05 16:14:59 INFO  - Select value by text from the list : Dashboard - By.xpath: //span[contains(text(),'Dashboard')]
+2020-10-05 16:15:01 INFO  - Test has ended closing browser: CHROME
+2020-10-05 16:15:01 INFO  - Jira tool is Disabled in Control sheet
+2020-10-05 16:15:01 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-05 16:15:01 INFO  - Test Started: Botup Adding Integration Functionality
+2020-10-05 16:15:01 INFO  - Test is executed in Environment: Local
+2020-10-05 16:15:01 INFO  - Test is started with browser: CHROME
+2020-10-05 16:15:06 INFO  - Select value by text from the list : Integrations - By.xpath: //span[contains(text(),'Integrations')]
+2020-10-05 16:16:51 INFO  - 
+
++===========================================================================================================+
+2020-10-05 16:16:51 INFO  -  Suite started at Mon Oct 05 16:16:51 IST 2020
+2020-10-05 16:16:51 INFO  - Suite Execution For Web application on environment : Local
+2020-10-05 16:16:51 INFO  - Suite Execution For Android mobile application on version: 7.1.1
+2020-10-05 16:16:51 INFO  - Suite Execution For RestAPI on URL: https://townsqd.com/api
+2020-10-05 16:16:51 INFO  - 
+
++===========================================================================================================+
+2020-10-05 16:16:58 INFO  - CHROME : Browser Launched and Maximized.
+2020-10-05 16:16:59 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-05 16:16:59 INFO  - Test Started: Botup CallFlow Login Functionality
+2020-10-05 16:16:59 INFO  - Test is executed in Environment: Local
+2020-10-05 16:16:59 INFO  - Test is started with browser: CHROME
+2020-10-05 16:17:02 INFO  - Navigate to: https://portal.500apps.io/#/login
+2020-10-05 16:17:10 INFO  - Input Text: stgcheck1@yopmail.com - By.name: email
+2020-10-05 16:17:12 INFO  - Input Text: stgcheck1 - By.name: password
+2020-10-05 16:17:16 INFO  - Click: By.xpath: //button[@type='submit']
+2020-10-05 16:17:37 INFO  - Select value by text from the list : Botup - By.xpath: //*[@class='border-0 card-body card-padding']/h5
+2020-10-05 16:17:42 INFO  - Select value by text from the list : Dashboard - By.xpath: //span[contains(text(),'Dashboard')]
+2020-10-05 16:17:44 INFO  - Test has ended closing browser: CHROME
+2020-10-05 16:17:44 INFO  - Jira tool is Disabled in Control sheet
+2020-10-05 16:17:44 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-05 16:17:44 INFO  - Test Started: Botup Adding Integration Functionality
+2020-10-05 16:17:44 INFO  - Test is executed in Environment: Local
+2020-10-05 16:17:44 INFO  - Test is started with browser: CHROME
+2020-10-05 16:17:49 INFO  - Select value by text from the list : Integrations - By.xpath: //span[contains(text(),'Integrations')]
+2020-10-05 16:17:56 INFO  - Get Element text: By.xpath: //*[@class='card-text']/h5[contains(text(),'twilio')]/following::button[1]
+2020-10-05 16:18:00 INFO  - Click: By.xpath: //*[@class='card-text']/h5[contains(text(),'twilio')]/following::button[1]
+2020-10-05 16:18:02 INFO  - Input Text: ACb77109f19f59d4e12a412d8f9613486f - By.id: input_email_value
+2020-10-05 16:18:04 INFO  - Input Text: f40f08c326db301fe1b613db63b534ed - By.id: input_api_key
+2020-10-05 16:18:09 INFO  - Click: By.xpath: //button[@class='btn submit-button btn-primary']
+2020-10-05 16:18:12 INFO  - Get Element text: By.xpath: //button[@class='btn w-100 btn-danger cursor-pointer']
+2020-10-05 16:18:13 INFO  - Get Element text: By.xpath: //button[@class='btn w-100 btn-danger cursor-pointer']
+2020-10-05 16:18:13 INFO  - Test has ended closing browser: CHROME
+2020-10-05 16:18:13 INFO  - Jira tool is Disabled in Control sheet
+2020-10-05 16:18:13 INFO  - 
++----------------------------------------------------------------------------------------------------------------------------+
+2020-10-05 16:18:13 INFO  - Test Started: mailsend Login Functionality
+2020-10-05 16:18:13 INFO  - Test is executed in Environment: Local
+2020-10-05 16:18:13 INFO  - Test is started with browser: CHROME
+2020-10-05 16:18:17 INFO  - Navigate to: https://portal.500apps.io/#/login

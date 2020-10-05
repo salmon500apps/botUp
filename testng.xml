@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Cucumber Suite" >
+
+<!-- All tests will show in Report  -->
+  <test name="Regression 1" preserve-order="false">
+    <classes>
+      	 <class name="step_definitions.RunCukesTest"/> 
+      	 <!-- <class name="step_definitions.RunCukesTest2"/>  -->
+     </classes>
+  </test> 
+  
+</suite> <!-- Default suite -->
